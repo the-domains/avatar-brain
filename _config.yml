@@ -6,10 +6,10 @@ color:
   saturation: 0.053200821159407496
   rhythmicContrast: 0.3138160044327378
   brandColors:
-    - '#656364'
-    - '#706D6E'
-    - '#626061'
-    - '#6B6869'
-    - '#5F5D5E'
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
 name: Avatar-Brain
 title: The beholder inside us
