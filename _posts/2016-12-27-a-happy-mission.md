@@ -1,14 +1,14 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-27T18:26:16.977Z'
-datePublished: '2016-12-27T18:26:17.379Z'
+dateModified: '2016-12-27T20:59:31.797Z'
+datePublished: '2016-12-27T20:59:32.365Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 starred: false
-datePublishedOriginal: '2016-12-27T18:26:17.379Z'
+datePublishedOriginal: '2016-12-27T20:59:30.843Z'
 sourcePath: _posts/2016-12-27-a-happy-mission.md
 _type: Blurb
 
@@ -35,14 +35,20 @@ II. PHYSICAL: You will find that over 80% of the products we use every day for b
 
 a. Nutrition
 
+Keeping our brain healthy depends on nutrition more than any other factor. Yet, as our [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of the economic interest of others, regardless of its long-term damages to our health. 
+
 b. Exercise
 
-III. FINANCIAL: The only concepts one needs to master to understand any financial product are listed below.
+Though most of us think of exercise as a way for counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. As posted in Huarache Runners and better explained by Christopher McDougall ([see Appendix B link][0]), the larger the gap between your soles' nerve endings and the surface of the road, the higher the likelihood of injury. 
+
+III. FINANCIAL: The only concepts one needs to master to understand financial product are listed below.
 
 a. Interest rates (the price of uncertainty)
 
 b. Net Present Value (discounting the value of future cash flows)
 
-c. Information Asymmetry (what others know beforehand and you don't, can make all the difference)
+c. Information Asymmetry (what others know beforehand and you don't, make the difference)
 
-IV. SOCIAL: On why you must reformat your brain regarding social status and then consider which of your parents or extended family members' values are most likely to help your mind evolve towards its optimal capacity
+IV. SOCIAL: On why you must reformat your brain regarding social status and then consider which of your parents or extended family members' values are most likely to help you evolve towards optimal social interaction. 
+
+[0]: http://www.infoasy.com/2016/07/hack-matrix_29.html
