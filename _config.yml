@@ -1,9 +1,10 @@
-typography_spectrum: 0.06019708726702645
+layout_spectrum: 0.8854460512727758
+typography_spectrum: 0.6218233703311054
 color:
-  brandStrength: 0.7754032189315093
-  lightness: 0.44390313146866417
-  saturation: 0.7421219372906086
-  rhythmicContrast: 0.19470676325206268
+  brandStrength: 0.5314824453063568
+  lightness: 0.5872816081234429
+  saturation: 0.9143575396452395
+  rhythmicContrast: 0.42493043589654683
   brandColors:
     - '#909DAE'
     - '#1E2C42'
@@ -11,7 +12,6 @@ color:
     - '#C54831'
     - '#BAC5C9'
 github: true
-layout_spectrum: 0.2991070036915601
 author:
   email: olairet@sequoian.com
   name: Oswaldo Lairet
