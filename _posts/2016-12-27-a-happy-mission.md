@@ -1,21 +1,21 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-27T21:09:46.612Z'
-datePublished: '2016-12-27T21:09:48.265Z'
+dateModified: '2016-12-27T21:11:26.271Z'
+datePublished: '2016-12-27T21:11:28.749Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-27-a-happy-mission.md
 starred: false
 datePublishedOriginal: '2016-12-27T21:09:41.415Z'
-sourcePath: _posts/2016-12-27-a-happy-mission.md
 url: a-happy-mission/index.html
 _type: Article
 
 ---
-A HAPPY MISSION
+**A HAPPY MISSION**
 
 How coincidental that "Happiness," the word for that elusive state of being among living creatures, derives from hap "chance, fortune, luck." Yet, our chances of attaining it, increase over the long term, with our ability to preserve CEREBRAL, PHYSICAL, FINANCIAL, and SOCIAL HEALTH.
 
@@ -37,11 +37,11 @@ II. PHYSICAL: You will find that over 80% of the products we use every day for b
 
 a. Nutrition
 
-Keeping our brain healthy depends on nutrition more than any other factor. Yet, as our [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of the economic interest of others, regardless of its long-term damages to our health. 
+Keeping our brain healthy depends on nutrition more than any other factor. Yet, as our [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of the economic interest of others, regardless of its long-term damages to our health.
 
 b. Exercise
 
-Though most of us think of exercise as a way for counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. As posted in Huarache Runners and better explained by Christopher McDougall ([see Appendix B link][0]), the larger the gap between your soles' nerve endings and the surface of the road, the higher the likelihood of injury. 
+Though most of us think of exercise as a way for counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. As posted in Huarache Runners and better explained by Christopher McDougall ([see Appendix B link][0]), the larger the gap between your soles' nerve endings and the surface of the road, the higher the likelihood of injury.
 
 III. FINANCIAL: The only concepts one needs to master to understand financial product are listed below.
 
@@ -51,7 +51,7 @@ b. Net Present Value (discounting the value of future cash flows)
 
 c. Information Asymmetry (what others know beforehand and you don't, make the difference)
 
-IV. SOCIAL: On why you must reformat your brain regarding social status and then consider which of your parents or extended family members' values are most likely to help you evolve towards optimal social interaction. 
+IV. SOCIAL: On why you must reformat your brain regarding social status and then consider which of your parents or extended family members' values are most likely to help you evolve towards optimal social interaction.
 
 ---
 
