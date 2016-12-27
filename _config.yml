@@ -1,4 +1,3 @@
-layout_spectrum: 0.2991070036915601
 typography_spectrum: 0.06019708726702645
 color:
   brandStrength: 0.7754032189315093
@@ -12,6 +11,7 @@ color:
     - '#C54831'
     - '#BAC5C9'
 github: true
+layout_spectrum: 0.2991070036915601
 author:
   email: olairet@sequoian.com
   name: Oswaldo Lairet
