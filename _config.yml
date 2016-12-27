@@ -22,6 +22,9 @@ navigation:
   - name: Information Asymmetry
     url: 'https://www.facebook.com/InformationSymmetry'
     type: external
+  - name: Hack The Matrix
+    url: 'http://www.infoasy.com/2016/07/hack-matrix_29.html'
+    type: external
 title: The beholder inside us
 content: []
 description: >-
