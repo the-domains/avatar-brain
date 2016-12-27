@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-27T21:25:29.330Z'
-datePublished: '2016-12-27T21:25:29.733Z'
+dateModified: '2016-12-27T21:25:47.168Z'
+datePublished: '2016-12-27T21:25:47.606Z'
 title: ''
 author: []
 publisher: {}
@@ -14,6 +14,8 @@ datePublishedOriginal: '2016-12-27T21:09:41.415Z'
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be972d55-25ba-45a9-a751-f389c386c71b.jpg)
+
 **A HAPPY MISSION**
 
 How coincidental that "Happiness," the word for that elusive state of being among living creatures, derives from hap "chance, fortune, luck." Yet, our chances of attaining it, increase over the long term, with our ability to preserve CEREBRAL, PHYSICAL, FINANCIAL, and SOCIAL HEALTH.
