@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-27T20:59:31.797Z'
-datePublished: '2016-12-27T20:59:32.365Z'
+dateModified: '2016-12-27T21:09:46.612Z'
+datePublished: '2016-12-27T21:09:48.265Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-27T20:59:30.843Z'
+datePublishedOriginal: '2016-12-27T21:09:41.415Z'
 sourcePath: _posts/2016-12-27-a-happy-mission.md
-_type: Blurb
+url: a-happy-mission/index.html
+_type: Article
 
 ---
 A HAPPY MISSION
@@ -50,5 +52,9 @@ b. Net Present Value (discounting the value of future cash flows)
 c. Information Asymmetry (what others know beforehand and you don't, make the difference)
 
 IV. SOCIAL: On why you must reformat your brain regarding social status and then consider which of your parents or extended family members' values are most likely to help you evolve towards optimal social interaction. 
+
+---
+
+
 
 [0]: http://www.infoasy.com/2016/07/hack-matrix_29.html
