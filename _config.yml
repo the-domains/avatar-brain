@@ -1,10 +1,9 @@
-layout_spectrum: 0.024637806637138868
-typography_spectrum: 0.06262298534790256
+typography_spectrum: 0.06019708726702645
 color:
-  brandStrength: 0.7740401740179462
-  lightness: 0.44701140915504706
-  saturation: 0.7429214820570985
-  rhythmicContrast: 0.19520111250663452
+  brandStrength: 0.7754032189315093
+  lightness: 0.44390313146866417
+  saturation: 0.7421219372906086
+  rhythmicContrast: 0.19470676325206268
   brandColors:
     - '#909DAE'
     - '#1E2C42'
@@ -12,23 +11,16 @@ color:
     - '#C54831'
     - '#BAC5C9'
 github: true
+layout_spectrum: 0.2991070036915601
 author:
   email: olairet@sequoian.com
   name: Oswaldo Lairet
   url: 'http://sequoian.com/'
 name: Avatar-Brain
 url: 'https://thegrid.ai/avatar-brain/'
-navigation:
-  - name: Information Asymmetry
-    url: 'https://www.facebook.com/InformationSymmetry'
-    type: external
-  - name: Hack The Matrix
-    url: 'http://www.infoasy.com/2016/07/hack-matrix_29.html'
-    type: external
 title: The beholder inside us
 content: []
 description: >-
-  Our mission is to teach as many people as possible how to preserve their
-  Cerebral, Physical, Financial, and Social Health and thus, increase their
-  chances of finding happiness for themselves, their families, and their
-  community. 
+  Our mission: Teach as many people as possible how to preserve their Cerebral,
+  Physical, Financial, and Social Health and thus, increase their chances of
+  finding happiness for themselves, their families, and their community. 
