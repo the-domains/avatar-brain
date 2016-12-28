@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T03:17:55.376Z'
-datePublished: '2016-12-28T03:17:57.217Z'
+dateModified: '2016-12-28T03:20:30.815Z'
+datePublished: '2016-12-28T03:20:31.739Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-12-28-a-happy-mission.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-28T03:01:36.158Z'
-_type: Blurb
+url: a-happy-mission/index.html
+_type: Article
 
 ---
 **A HAPPY MISSION**
