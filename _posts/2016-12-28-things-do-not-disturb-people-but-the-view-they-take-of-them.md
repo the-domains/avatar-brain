@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T02:46:35.390Z'
-datePublished: '2016-12-28T02:46:36.154Z'
+dateModified: '2016-12-28T02:55:19.617Z'
+datePublished: '2016-12-28T02:55:20.054Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
@@ -29,7 +29,7 @@ How coincidental that "Happiness," the word for that elusive state of being amon
 
 a. CPU stands for Central Processing Unit in a computer, but regarding our brain this might as well stand for Congenital Primitive Unconscious (Limbic System).
 
-b. OS stands for Operating System in the computer, might mean Organized Screener (Prefrontal Cortex).
+b. OS which stands for Operating System in the computer, might mean Organized Screener (Prefrontal Cortex) in our case.
 
 c. I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other Sensation and Perception organs managed by our Somatosensory Systems.
 
@@ -39,7 +39,7 @@ d. Software: in contrast to the physical hardware such as the CPU and I/O device
 
 a. Nutrition
 
-Keeping our brain healthy depends on nutrition more than any other factor. Yet, as our [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of the economic interest of others, regardless of its potential health damage to us.
+Keeping our brain healthy depends on nutrition more than any other factor. Yet, as our [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of economic interests of others, regardless of its potential damage to us.
 
 b. Exercise
 
