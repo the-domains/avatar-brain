@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T04:03:27.663Z'
-datePublished: '2016-12-28T04:03:28.263Z'
+dateModified: '2016-12-28T04:17:20.042Z'
+datePublished: '2016-12-28T04:17:22.120Z'
 title: ''
 author: []
 publisher: {}
@@ -27,11 +27,11 @@ a. CPU stands for Central Processing Unit in a computer, but regarding our brain
 
 b. OS which stands for Operating System in the computer, might mean Organized Screener (Prefrontal Cortex) in our case.
 
-c. I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other Sensation and Perception organs managed by our Somatosensory Systems.
+c. I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other Sensation and Perception organs managed by our brain's sensory systems.
 
 d. Software: in contrast to the physical hardware such as the CPU and I/O devices, the software is the information and instructions encoded in computer language and fed to it to make it work a certain way. In our case, software is the information and instructions encoded via sounds, colors, flavors, aromas, textures, etc. fed to our brains through our sensory organs to make us behave certain ways, prefer certain products, control the extent of our actions, etc.
 
-**II. Physical**: You will find that over 80% of the products we use every day for both categories below might be long-term harmful or at best useless.
+**II. Physical**: Many of the products we use to prolong our health might be long-term harmful or at best useless for that purpose. 
 
 a. Nutrition
 
