@@ -18,6 +18,10 @@ author:
   url: 'http://sequoian.com/'
 name: Avatar-Brain
 url: 'https://thegrid.ai/avatar-brain/'
+navigation:
+  - name: 'https://www.facebook.com/InformationSymmetry'
+    url: 'https://www.facebook.com/InformationSymmetry'
+    type: external
 title: The beholder inside us
 content: []
 description: >-
