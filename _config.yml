@@ -19,9 +19,6 @@ author:
 name: Avatar-Brain
 url: 'https://thegrid.ai/avatar-brain/'
 navigation:
-  - name: 'https://www.facebook.com/InformationSymmetry'
-    url: 'https://www.facebook.com/InformationSymmetry'
-    type: external
   - name: We Are Our Brain's Avatar
     url: 'http://www.infoasy.com/2016/07/hack-matrix_29.html'
     type: external
