@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T02:59:43.101Z'
-datePublished: '2016-12-28T03:01:36.158Z'
+dateModified: '2016-12-28T03:05:34.555Z'
+datePublished: '2016-12-28T03:05:35.204Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2016-12-28-a-happy-mission.md
 starred: false
 datePublishedOriginal: '2016-12-28T03:01:36.158Z'
-sourcePath: _posts/2016-12-28-a-happy-mission.md
 _type: Blurb
 
 ---
@@ -37,7 +37,7 @@ Keeping our brain healthy depends on nutrition more than any other factor. Yet, 
 
 b. Exercise
 
-Though most of us think of exercise as a way of counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. For instance, as posted in [Huarache Runners][1] and better explained by Christopher McDougall ([see Appendix B link][0]), the larger the gap between your soles' nerve endings and the surface of the road you run on, the higher the likelihood of injury.
+Though most of us think of exercise as a way of counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. For instance, as posted in [Huarache Runners][1] and better explained by Christopher McDougall ([see Appendix B link][0]), the larger the gap between our soles' nerve endings and the surface of the road we run on, the higher the likelihood of injury.
 
 **III. FINANCIAL**: The only concepts one needs to understand financial products are listed below. We will review each of them over time.
 
@@ -47,7 +47,7 @@ b. Net Present Value (discounting the value of future cash flows)
 
 c. Information Asymmetry (what others know beforehand and you don't, make the difference)
 
-**IV. SOCIAL**: On why we may have to reformat our brains regarding social status according to which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
+**IV. SOCIAL**: On why we may have to reformat our brains regarding social status per which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
 
 TO BE CONTINUED...
 
