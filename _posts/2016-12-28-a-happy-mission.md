@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T04:00:11.093Z'
-datePublished: '2016-12-28T04:00:11.685Z'
+dateModified: '2016-12-28T04:03:27.663Z'
+datePublished: '2016-12-28T04:03:28.263Z'
 title: ''
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ d. Software: in contrast to the physical hardware such as the CPU and I/O device
 
 a. Nutrition
 
-Keeping our brain healthy depends on nutrition more than any other factor. Yet, as our [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of economic interests of others, regardless of its potential damage to us.
+Keeping our brain healthy depends on nutrition more than any other factor. Yet, as this [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of economic interests of others, regardless of its potential damage to us.
 
 b. Exercise
 
@@ -47,7 +47,7 @@ a. [Interest rates ][2](the price of uncertainty)
 
 b. [Net Present Value][3] (discounting the value of future cash flows)
 
-c. [Information Asymmetry][4] (what others know beforehand and you don't, makes the difference)
+c. [Information Asymmetry][4] (what others know beforehand and we don't, makes the difference)
 
 **IV. Social**: On why we may have to reformat our brains regarding social status per which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
 
