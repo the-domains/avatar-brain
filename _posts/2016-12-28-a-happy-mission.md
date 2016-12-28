@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T03:46:36.031Z'
-datePublished: '2016-12-28T03:46:37.043Z'
+dateModified: '2016-12-28T04:00:11.093Z'
+datePublished: '2016-12-28T04:00:11.685Z'
 title: ''
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ How coincidental that "Happiness," the word for that elusive state of being amon
 
 **I. Cerebral**: Our interest is in how the brain truly works and how entities other than ourselves, use it to determine our state of health in all areas of life. Visualizing our brain as a computer makes it easier to understand how this may happen:
 
-a. CPU stands for Central Processing Unit in a computer, but regarding our brain this might as well stand for Congenital Primitive Unconscious (Limbic System).
+a. CPU stands for Central Processing Unit in a computer, but regarding our brain this might as well stand for Congenitally Primitive Unconscious (Limbic System).
 
 b. OS which stands for Operating System in the computer, might mean Organized Screener (Prefrontal Cortex) in our case.
 
