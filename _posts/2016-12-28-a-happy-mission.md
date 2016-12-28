@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T03:20:30.815Z'
-datePublished: '2016-12-28T03:20:31.739Z'
+dateModified: '2016-12-28T03:46:36.031Z'
+datePublished: '2016-12-28T03:46:37.043Z'
 title: ''
 author: []
 publisher: {}
@@ -43,11 +43,11 @@ Though most of us think of exercise as a way of counteracting the effects of unh
 
 **III. Financial**: The only concepts one needs to understand financial products are listed below. We will review each of them over time.
 
-a. Interest rates (the price of uncertainty)
+a. [Interest rates ][2](the price of uncertainty)
 
-b. Net Present Value (discounting the value of future cash flows)
+b. [Net Present Value][3] (discounting the value of future cash flows)
 
-c. Information Asymmetry (what others know beforehand and you don't, make the difference)
+c. [Information Asymmetry][4] (what others know beforehand and you don't, makes the difference)
 
 **IV. Social**: On why we may have to reformat our brains regarding social status per which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
 
@@ -55,3 +55,6 @@ TO BE CONTINUED...
 
 [0]: http://www.infoasy.com/2016/07/hack-matrix_29.html
 [1]: https://www.strava.com/clubs/huarache-runners
+[2]: http://sequoian.com/wp-content/uploads/2015/12/The_Fixed-Income_Mother_of_All_Bubbles_E.pdf
+[3]: http://sequoian.com/wp-content/uploads/2016/10/The-Discount-Rate-Pyramid-Scheme-2.0.pdf
+[4]: http://sequoian.com/wp-content/uploads/2015/12/INCLUSIVE_CAPITALISM_SPRINGS_FROM_INFOR.pdf
