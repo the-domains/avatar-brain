@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T00:40:38.002Z'
-datePublished: '2016-12-28T00:40:38.531Z'
+dateModified: '2016-12-28T00:40:47.671Z'
+datePublished: '2016-12-28T00:40:48.085Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
@@ -55,9 +55,5 @@ b. Net Present Value (discounting the value of future cash flows)
 c. Information Asymmetry (what others know beforehand and you don't, make the difference)
 
 **IV. SOCIAL**: On why you must reformat your brain regarding social status and then consider which of your parents or extended family members' values are most likely to help you evolve towards optimal social interaction.
-
----
-
-
 
 [0]: http://www.infoasy.com/2016/07/hack-matrix_29.html
