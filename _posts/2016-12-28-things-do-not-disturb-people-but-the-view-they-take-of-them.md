@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T00:26:14.585Z'
-datePublished: '2016-12-28T00:26:53.069Z'
+dateModified: '2016-12-28T00:40:38.002Z'
+datePublished: '2016-12-28T00:40:38.531Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
@@ -10,10 +10,10 @@ author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2016-12-28T00:26:53.069Z'
 sourcePath: >-
   _posts/2016-12-28-things-do-not-disturb-people-but-the-view-they-take-of-them.md
+starred: false
+datePublishedOriginal: '2016-12-28T00:26:53.069Z'
 url: things-do-not-disturb-people-but-the-view-they-take-of-them/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ How coincidental that "Happiness," the word for that elusive state of being amon
 
 **FOUR STATES OF HEALTH**:
 
-**I. CEREBRAL**: Our interest is in how the brain truly works and how it is used by entities other than yourself to determine your state of health in all other areas of life. Visualizing our brain as a computer makes it easy how this is happening. For instance:
+**I. CEREBRAL**: Our interest is in how the brain truly works and how entities other than ourselves use it to determine your state of health in all other areas of life. Visualizing our brain as a computer makes it easy how this is happening. For instance:
 
 a. CPU stands for Central Processing Unit in a computer, but regarding our brain, it might mean Congenital Primitive Unconscious (Limbic System).
 
