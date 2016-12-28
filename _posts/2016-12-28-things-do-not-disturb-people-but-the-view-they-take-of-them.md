@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T00:40:51.495Z'
-datePublished: '2016-12-28T00:40:51.763Z'
+dateModified: '2016-12-28T00:41:23.358Z'
+datePublished: '2016-12-28T00:41:23.893Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
@@ -26,7 +26,7 @@ How coincidental that "Happiness," the word for that elusive state of being amon
 
 **FOUR STATES OF HEALTH**:
 
-**I. CEREBRAL**: Our interest is in how the brain truly works and how entities other than ourselves use it to determine your state of health in all other areas of life. Visualizing our brain as a computer makes it easy how this is happening. For instance:
+**I. CEREBRAL**: Our interest is in how the brain truly works and how entities other than ourselves use it to determine our state of health in all other areas of life. Visualizing our brain as a computer makes it easy how this is happening. For instance:
 
 a. CPU stands for Central Processing Unit in a computer, but regarding our brain, it might mean Congenital Primitive Unconscious (Limbic System).
 
