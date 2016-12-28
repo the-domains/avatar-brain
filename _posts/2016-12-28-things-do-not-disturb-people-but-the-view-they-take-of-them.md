@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T01:20:35.293Z'
-datePublished: '2016-12-28T01:20:42.438Z'
+dateModified: '2016-12-28T01:25:09.897Z'
+datePublished: '2016-12-28T01:25:11.382Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
@@ -45,7 +45,7 @@ b. Exercise
 
 Though most of us think of exercise as a way for counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. As posted in [Huarache Runners][1] and better explained by Christopher McDougall ([see Appendix B link][0]), the larger the gap between your soles' nerve endings and the surface of the road, the higher the likelihood of injury.
 
-**III. FINANCIAL**: The only concepts one needs to master to understand financial products are listed below. We will review each of them over time.
+**III. FINANCIAL**: The only concepts one needs to understand financial products are listed below. We will review each of them over time.
 
 a. Interest rates (the price of uncertainty)
 
