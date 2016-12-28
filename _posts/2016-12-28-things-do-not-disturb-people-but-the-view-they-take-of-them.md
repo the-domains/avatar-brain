@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T02:41:08.906Z'
-datePublished: '2016-12-28T02:41:09.302Z'
+dateModified: '2016-12-28T02:46:35.390Z'
+datePublished: '2016-12-28T02:46:36.154Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
@@ -25,15 +25,15 @@ How coincidental that "Happiness," the word for that elusive state of being amon
 
 **FOUR STATES OF HEALTH**:
 
-**I. CEREBRAL**: Our interest is in how the brain truly works and how entities other than ourselves use it to determine our state of health in all other areas of life. Visualizing our brain as a computer makes it easier to show how this may happen:
+**I. CEREBRAL**: Our interest is in how the brain truly works and how entities other than ourselves, use it to determine our state of health in all areas of life. Visualizing our brain as a computer makes it easier to understand how this may happen:
 
-a. CPU stands for Central Processing Unit in a computer, but regarding our brain, this might as well stand for Congenital Primitive Unconscious (Limbic System).
+a. CPU stands for Central Processing Unit in a computer, but regarding our brain this might as well stand for Congenital Primitive Unconscious (Limbic System).
 
 b. OS stands for Operating System in the computer, might mean Organized Screener (Prefrontal Cortex).
 
 c. I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other Sensation and Perception organs managed by our Somatosensory Systems.
 
-d. Software: in contrast to the physical hardware such as the CPU and I/O devices, the software is the information and instructions encoded in computer language and fed to the computer to make it work a certain way. In our case, the software is the information and instructions encoded via colors, flavors, aromas, textures, etc. fed to our brains through our sensory organs to make us behave certain ways, prefer certain products, control the extent of our actions, etc.
+d. Software: in contrast to the physical hardware such as the CPU and I/O devices, the software is the information and instructions encoded in computer language and fed to it to make it work a certain way. In our case, software is the information and instructions encoded via sounds, colors, flavors, aromas, textures, etc. fed to our brains through our sensory organs to make us behave certain ways, prefer certain products, control the extent of our actions, etc.
 
 **II. PHYSICAL**: You will find that over 80% of the products we use every day for both categories below might be long-term harmful or at best useless.
 
