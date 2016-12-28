@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T01:20:26.795Z'
-datePublished: '2016-12-28T01:20:27.832Z'
+dateModified: '2016-12-28T01:20:35.293Z'
+datePublished: '2016-12-28T01:20:42.438Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
@@ -56,6 +56,10 @@ c. Information Asymmetry (what others know beforehand and you don't, make the di
 **IV. SOCIAL**: On why you must reformat your brain regarding social status and then consider which of your parents or extended family members' values are most likely to help you evolve towards optimal social interaction.
 
 TO BE CONTINUED...
+
+---
+
+
 
 [0]: http://www.infoasy.com/2016/07/hack-matrix_29.html
 [1]: https://www.strava.com/clubs/huarache-runners
