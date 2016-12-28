@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T01:31:54.612Z'
-datePublished: '2016-12-28T01:31:55.319Z'
+dateModified: '2016-12-28T02:41:08.906Z'
+datePublished: '2016-12-28T02:41:09.302Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
@@ -25,25 +25,25 @@ How coincidental that "Happiness," the word for that elusive state of being amon
 
 **FOUR STATES OF HEALTH**:
 
-**I. CEREBRAL**: Our interest is in how the brain truly works and how entities other than ourselves use it to determine our state of health in all other areas of life. Visualizing our brain as a computer makes it easy how this is happening. For instance:
+**I. CEREBRAL**: Our interest is in how the brain truly works and how entities other than ourselves use it to determine our state of health in all other areas of life. Visualizing our brain as a computer makes it easier to show how this may happen:
 
-a. CPU stands for Central Processing Unit in a computer, but regarding our brain, it might mean Congenital Primitive Unconscious (Limbic System).
+a. CPU stands for Central Processing Unit in a computer, but regarding our brain, this might as well stand for Congenital Primitive Unconscious (Limbic System).
 
-b. OS stands for Operating System in the computer, it might mean Organized Screener (Prefrontal Cortex).
+b. OS stands for Operating System in the computer, might mean Organized Screener (Prefrontal Cortex).
 
-c. I/O stands for Input and Output devices, such as the monitor, keyboard, mouse, etc. In our case, I/O devices are our eyes, ears, skin and other Sensation and Perception devices, managed by our Somatosensory Systems.
+c. I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other Sensation and Perception organs managed by our Somatosensory Systems.
 
-d. Software: in contrast to the physical hardware such as the CPU and I/O devices, the software is the information and instructions encoded in computer language and fed to the computer to make it work a certain way. In our case, the software is the information and instructions encoded via colors, flavors, aromas, textures, etc. fed to our brains to make us behave a certain way or prefer certain products.
+d. Software: in contrast to the physical hardware such as the CPU and I/O devices, the software is the information and instructions encoded in computer language and fed to the computer to make it work a certain way. In our case, the software is the information and instructions encoded via colors, flavors, aromas, textures, etc. fed to our brains through our sensory organs to make us behave certain ways, prefer certain products, control the extent of our actions, etc.
 
-**II. PHYSICAL**: You will find that over 80% of the products we use every day for both categories below are either harmful or at best useless.
+**II. PHYSICAL**: You will find that over 80% of the products we use every day for both categories below might be long-term harmful or at best useless.
 
 a. Nutrition
 
-Keeping our brain healthy depends on nutrition more than any other factor. Yet, as our [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of the economic interest of others, regardless of its long-term damages to our health.
+Keeping our brain healthy depends on nutrition more than any other factor. Yet, as our [summary explains][0], it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood in favor of the economic interest of others, regardless of its potential health damage to us.
 
 b. Exercise
 
-Though most of us think of exercise as a way for counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. As posted in [Huarache Runners][1] and better explained by Christopher McDougall ([see Appendix B link][0]), the larger the gap between your soles' nerve endings and the surface of the road, the higher the likelihood of injury.
+Though most of us think of exercise as a way of counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. For instance, as posted in [Huarache Runners][1] and better explained by Christopher McDougall ([see Appendix B link][0]), the larger the gap between your soles' nerve endings and the surface of the road you run on, the higher the likelihood of injury.
 
 **III. FINANCIAL**: The only concepts one needs to understand financial products are listed below. We will review each of them over time.
 
@@ -53,7 +53,7 @@ b. Net Present Value (discounting the value of future cash flows)
 
 c. Information Asymmetry (what others know beforehand and you don't, make the difference)
 
-**IV. SOCIAL**: On why you must reformat your brain regarding social status and then consider which of your parents or extended family members' values are most likely to help you evolve towards optimal social interaction.
+**IV. SOCIAL**: On why we may have to reformat our brains regarding social status according to which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
 
 TO BE CONTINUED...
 
