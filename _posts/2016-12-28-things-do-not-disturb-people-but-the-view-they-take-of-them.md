@@ -1,20 +1,21 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T01:25:09.897Z'
-datePublished: '2016-12-28T01:25:11.382Z'
+dateModified: '2016-12-28T01:27:18.683Z'
+datePublished: '2016-12-28T01:27:19.744Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: >-
   _posts/2016-12-28-things-do-not-disturb-people-but-the-view-they-take-of-them.md
 starred: false
 datePublishedOriginal: '2016-12-28T00:26:53.069Z'
-_type: Blurb
+url: things-do-not-disturb-people-but-the-view-they-take-of-them/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98baf19-1912-42a8-980b-c6f9b3fbf72a.jpg)
