@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T01:17:25.117Z'
-datePublished: '2016-12-28T01:17:29.194Z'
+dateModified: '2016-12-28T01:20:22.341Z'
+datePublished: '2016-12-28T01:20:23.399Z'
 title: |
   Things do not disturb people, but the view they take of them. 
   ― Epictetus
