@@ -8,8 +8,8 @@ description: >-
   Olympic marathoner while enjoying every mile of it. Their superhuman talent is
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
-dateModified: '2016-12-29T14:30:43.313Z'
-datePublished: '2016-12-29T14:31:05.884Z'
+dateModified: '2016-12-29T14:31:42.508Z'
+datePublished: '2016-12-29T14:31:42.735Z'
 title: |-
   Most powerful is he who has himself in his power. 
   ―Seneca
@@ -18,8 +18,8 @@ publisher: {}
 via: {}
 sourcePath: _posts/2016-12-28-a-happy-mission.md
 hasPage: true
+datePublishedOriginal: '2016-12-29T14:31:42.735Z'
 starred: false
-datePublishedOriginal: '2016-12-29T14:31:05.884Z'
 url: most-powerful-is-he-who-has-himself-in-his-power-seneca/index.html
 _type: Blurb
 
