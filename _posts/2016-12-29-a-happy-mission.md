@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-29T23:09:00.868Z'
-datePublished: '2016-12-29T23:09:03.607Z'
+dateModified: '2016-12-29T23:12:36.960Z'
+datePublished: '2016-12-29T23:12:38.659Z'
 title: A Happy Mission
 author: []
 publisher: {}
@@ -54,7 +54,7 @@ _type: MediaObject
 
 ## **Social**
 
-## On why we may need to "reformat our CPU" regarding social status, per which parent or extended family member's "wiring" is most likely to help us develop our optimal social "net protocol"! 
+## On why we may need to "reformat our CPU" regarding social status, per which parent or extended family member's "wiring" is most likely to help us develop our optimal "net protocol" or set of "rules of engagement" for social interaction.
 
 ## TO BE CONTINUED...
 
