@@ -8,16 +8,18 @@ description: >-
   Olympic marathoner while enjoying every mile of it. Their superhuman talent is
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
-dateModified: '2016-12-29T17:41:17.593Z'
-datePublished: '2016-12-29T17:41:18.728Z'
+dateModified: '2016-12-29T17:41:28.342Z'
+datePublished: '2016-12-29T17:41:28.765Z'
 title: A Happy Mission
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-12-29-a-happy-mission.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-29T17:35:24.455Z'
-_type: Blurb
+url: a-happy-mission/index.html
+_type: Article
 
 ---
 !["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence." ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07832b66-e371-4b81-8fa7-85f29bcc980e.png)
@@ -49,6 +51,10 @@ _type: Blurb
 ### **Social:** On why we may have to reformat our brains regarding social status per which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
 
 ## TO BE CONTINUED...
+
+---
+
+
 
 [0]: http://www.infoasy.com/2016/07/hack-matrix_29.html
 [1]: https://www.strava.com/clubs/huarache-runners
