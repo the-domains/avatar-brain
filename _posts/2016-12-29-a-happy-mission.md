@@ -1,18 +1,27 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2016-12-29T18:08:05.210Z'
-datePublished: '2016-12-29T18:08:22.333Z'
+description: >-
+  "Isolated by the most savage terrain in North America, the reclusive
+  Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost
+  art. For centuries, they have practiced techniques that allow them to run
+  hundreds of miles without rest and chase down anything from a deer to an
+  Olympic marathoner while enjoying every mile of it. Their superhuman talent is
+  matched by uncanny health and serenity, leaving the Tarahumara immune to the
+  diseases and strife that plague modern existence." ―Christopher McDougall
+dateModified: '2016-12-29T18:10:26.651Z'
+datePublished: '2016-12-29T18:10:27.052Z'
 title: A Happy Mission
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2016-12-29-a-happy-mission.md
 starred: false
 datePublishedOriginal: '2016-12-29T18:08:22.333Z'
-sourcePath: _posts/2016-12-29-a-happy-mission.md
 _type: Blurb
 
 ---
+!["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence." ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d6bf73d-1f44-4da4-8e81-d315c4167769.png)
+
 # **A Happy Mission**
 
 ### How coincidental that "Happiness," that elusive state of being among living creatures, derives from hap "chance, fortune, luck." Fortunately, our chances of attaining it, increase over the long term, with our ability to preserve our Cerebral, Physical, Financial, and Social health.
@@ -40,8 +49,6 @@ _type: Blurb
 ### **Social:** On why we may have to reformat our brains regarding social status per which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
 
 ## TO BE CONTINUED...
-
-## https://xeroshoes.com/wp-content/themes/commercegurus/images/home-features/support-tarahumara.jpg
 
 [0]: http://www.infoasy.com/2016/07/hack-matrix_29.html
 [1]: https://www.strava.com/clubs/huarache-runners
