@@ -8,9 +8,9 @@ description: >-
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
 author: []
-datePublished: '2016-12-29T22:52:40.865Z'
-dateModified: '2016-12-29T22:52:39.321Z'
-title: Most powerful is he who has himself in his own power ― Seneca
+datePublished: '2016-12-29T23:02:03.003Z'
+dateModified: '2016-12-29T23:02:02.228Z'
+title: Most powerful is he who has himself in his own power ―Seneca
 publisher: {}
 via: {}
 inFeed: true
