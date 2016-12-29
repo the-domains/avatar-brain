@@ -1,13 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Nutrition, keeping our brain healthy depends on nutrition more than any other
-  factor. Yet, as this summary explains, it may be impossible to change our fate
-  in this area, unless we realize that since childhood, our sense of taste has
-  been groomed in favor of someone else’s economic interests, regardless of its
-  long-term potential damage to us.
-dateModified: '2016-12-29T22:55:28.725Z'
-datePublished: '2016-12-29T22:55:29.237Z'
+description: ''
+dateModified: '2016-12-29T23:00:43.784Z'
+datePublished: '2016-12-29T23:00:44.423Z'
 title: A Happy Mission
 author: []
 publisher: {}
@@ -43,19 +38,19 @@ _type: MediaObject
 
 ## Many of the foods and habits said to prolong our health might be harmful or at best useless over the long-term. For instance, when it comes to:
 
-Nutrition, keeping our brain healthy depends on nutrition more than any other factor. Yet, as this **[summary explains][0]**, it may be impossible to change our fate in this area, unless we realize that since childhood, our sense of taste has been groomed in favor of someone else's economic interests, regardless of its long-term potential damage to us.
+### Nutrition, keeping our brain healthy depends on nutrition more than any other factor. Yet, as this _**[summary explains][0]**_, it may be impossible to change our fate in this area, unless we realize that since childhood, our sense of taste has been groomed in favor of someone else's economic interests, regardless of its long-term potential damage to us.
 
-Exercise, most of us think of it as a way of counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. For instance, as posted in **[Huarache Runners][1]** and better explained by Christopher McDougall (**[see Appendix B link][0]**), the larger the gap between our soles' nerve endings and the surface of the road we run on, the higher the likelihood of injury.
+### Exercise, most of us think of it as a way of counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. For instance, as posted in _**[Huarache Runners][1]**_ and better explained by Christopher McDougall (_**[see Appendix B link][0]**_), the larger the gap between our soles' nerve endings and the surface of the road we run on, the higher the likelihood of injury.
 
 ## **Financial**
 
 ## Over time, we will review three concepts to understand financial products. For now, the links are there to offer perspectives on how each can impact financial matters.
 
-### **[Interest Rates][2]** (the price of uncertainty)
+### _**[Interest Rates][2]**_ (the price of uncertainty)
 
-### **[Net Present Value][3]** (discounting the value of future cash flows)
+### _**[Net Present Value][3]**_ (discounting the value of future cash flows)
 
-### **[Information Asymmetry][4]** (what others know beforehand and we don't, makes the difference)
+### _**[Information Asymmetry][4]**_ (what others know before we do, makes the difference)
 
 ## **Social**
 
