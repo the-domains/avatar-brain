@@ -25,6 +25,9 @@ navigation:
   - name: Huarache Runners
     url: 'https://www.strava.com/clubs/huarache-runners'
     type: external
+  - name: Information Asymmetry
+    url: 'http://sequoian.com/wp-content/uploads/2016/03/Information-Symmetry.pdf'
+    type: external
 title: The beholder within us
 content: []
 description: >-
