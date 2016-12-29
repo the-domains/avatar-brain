@@ -1,10 +1,9 @@
-layout_spectrum: 0.051080020134899734
-typography_spectrum: 0.545042351945995
+typography_spectrum: 0.43971961071216825
 color:
-  brandStrength: 0.41657255550394623
-  lightness: 0.764601289804029
-  saturation: 0.13768222588132883
-  rhythmicContrast: 0.40850732659570654
+  brandStrength: 0.7757130775455902
+  lightness: 0.4472101909220034
+  saturation: 0.09359393434718914
+  rhythmicContrast: 0.48634437502075983
   brandColors:
     - '#909DAE'
     - '#1E2C42'
@@ -12,6 +11,7 @@ color:
     - '#C54831'
     - '#BAC5C9'
 github: true
+layout_spectrum: 0.2916472777236474
 author:
   email: ''
   name: We Are Our Brain's Avatar
