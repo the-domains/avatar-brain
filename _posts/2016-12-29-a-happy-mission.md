@@ -8,8 +8,8 @@ description: >-
   Olympic marathoner while enjoying every mile of it. Their superhuman talent is
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
-dateModified: '2016-12-29T19:51:44.093Z'
-datePublished: '2016-12-29T19:51:44.658Z'
+dateModified: '2016-12-29T19:52:04.955Z'
+datePublished: '2016-12-29T19:52:05.576Z'
 title: A Happy Mission
 author: []
 publisher: {}
