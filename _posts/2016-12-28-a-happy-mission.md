@@ -1,11 +1,9 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2016-12-29T14:37:32.095Z'
-datePublished: '2016-12-29T14:37:32.604Z'
-title: |-
-  Most powerful is he who has himself in his power. 
-  ―Seneca
+dateModified: '2016-12-29T14:38:18.888Z'
+datePublished: '2016-12-29T14:38:19.412Z'
+title: ''
 author: []
 publisher: {}
 via: {}
