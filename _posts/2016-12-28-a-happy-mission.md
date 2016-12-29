@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-29T09:30:35.468Z'
-datePublished: '2016-12-29T09:30:36.042Z'
+dateModified: '2016-12-29T09:51:54.816Z'
+datePublished: '2016-12-29T09:51:55.322Z'
 title: ''
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ How coincidental that "Happiness," the word for that elusive state of being amon
 
 a. CPU stands for Central Processing Unit in a computer, but regarding our brain this might as well stand for Congenitally Primitive Unconscious (Limbic System).
 
-b. OS which stands for Operating System in the computer, might mean Organized Screener (Prefrontal Cortex) in our case.
+b. OS which stands for Operating System in the computer, might mean Organized Screener (Pre-frontal Cortex) in our case.
 
 c. I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other Sensation and Perception organs managed by our brain's sensory systems.
 
