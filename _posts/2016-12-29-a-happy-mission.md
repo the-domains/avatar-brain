@@ -1,8 +1,15 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2016-12-29T19:34:37.742Z'
-datePublished: '2016-12-29T19:38:29.696Z'
+description: >-
+  "Isolated by the most savage terrain in North America, the reclusive
+  Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost
+  art. For centuries, they have practiced techniques that allow them to run
+  hundreds of miles without rest and chase down anything from a deer to an
+  Olympic marathoner while enjoying every mile of it. Their superhuman talent is
+  matched by uncanny health and serenity, leaving the Tarahumara immune to the
+  diseases and strife that plague modern existence." ―Christopher McDougall
+dateModified: '2016-12-29T19:51:44.093Z'
+datePublished: '2016-12-29T19:51:44.658Z'
 title: A Happy Mission
 author: []
 publisher: {}
@@ -16,7 +23,7 @@ datePublishedOriginal: '2016-12-29T19:38:29.696Z'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5e8c577-0c17-40f2-af19-c3da0654dfa4.png)
+!["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence." ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5e8c577-0c17-40f2-af19-c3da0654dfa4.png)
 
 # **A Happy Mission**
 
