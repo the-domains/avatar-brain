@@ -5,8 +5,8 @@ description: >-
   creatures, derives from hap "chance, fortune, luck." Fortunately, our chances
   of attaining it, increase over the long term, with our ability to preserve our
   Cerebral, Physical, Financial, and Social health.
-dateModified: '2016-12-29T17:32:01.140Z'
-datePublished: '2016-12-29T17:32:01.640Z'
+dateModified: '2016-12-29T17:33:55.169Z'
+datePublished: '2016-12-29T17:33:55.660Z'
 title: A Happy Mission
 author: []
 publisher: {}
