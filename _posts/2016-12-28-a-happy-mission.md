@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A HAPPY MISSION
-dateModified: '2016-12-28T04:17:20.042Z'
-datePublished: '2016-12-28T04:17:22.120Z'
+dateModified: '2016-12-29T09:30:35.468Z'
+datePublished: '2016-12-29T09:30:36.042Z'
 title: ''
 author: []
 publisher: {}
@@ -10,7 +10,7 @@ via: {}
 sourcePath: _posts/2016-12-28-a-happy-mission.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-28T03:01:36.158Z'
+datePublishedOriginal: '2016-12-29T01:33:06.154Z'
 url: a-happy-mission/index.html
 _type: Article
 
@@ -31,7 +31,7 @@ c. I/O stands for Input and Output devices, such as monitor, keyboard, mouse, et
 
 d. Software: in contrast to the physical hardware such as the CPU and I/O devices, the software is the information and instructions encoded in computer language and fed to it to make it work a certain way. In our case, software is the information and instructions encoded via sounds, colors, flavors, aromas, textures, etc. fed to our brains through our sensory organs to make us behave certain ways, prefer certain products, control the extent of our actions, etc.
 
-**II. Physical**: Many of the products we use to prolong our health might be long-term harmful or at best useless for that purpose. 
+**II. Physical**: Many of the products we use to prolong our health might be long-term harmful or at best useless for that purpose.
 
 a. Nutrition
 
@@ -52,6 +52,10 @@ c. [Information Asymmetry][4] (what others know beforehand and we don't, makes t
 **IV. Social**: On why we may have to reformat our brains regarding social status per which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
 
 TO BE CONTINUED...
+
+---
+
+
 
 [0]: http://www.infoasy.com/2016/07/hack-matrix_29.html
 [1]: https://www.strava.com/clubs/huarache-runners
