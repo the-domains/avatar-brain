@@ -16,8 +16,8 @@ description: >-
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
 app_links: []
-datePublished: '2016-12-29T16:43:31.772Z'
-dateModified: '2016-12-29T16:43:30.849Z'
+datePublished: '2016-12-29T16:50:42.821Z'
+dateModified: '2016-12-29T16:50:42.014Z'
 title: |-
   Most powerful is he who has himself in his power. 
   ―Seneca
@@ -25,8 +25,8 @@ via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-most-powerful-is-he-who-has-himself-in-his-power-seneca.md
 hasPage: true
+datePublishedOriginal: '2016-12-29T16:50:42.821Z'
 starred: false
-datePublishedOriginal: '2016-12-29T16:28:48.717Z'
 url: most-powerful-is-he-who-has-himself-in-his-power-seneca/index.html
 _context: 'http://schema.org'
 _type: MediaObject
