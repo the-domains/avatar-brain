@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: A HAPPY MISSION
-dateModified: '2016-12-29T10:08:25.813Z'
-datePublished: '2016-12-29T10:08:26.240Z'
+dateModified: '2016-12-29T10:11:51.425Z'
+datePublished: '2016-12-29T10:11:51.937Z'
 title: |-
   Most powerful is he who has himself in his power. 
   ―Seneca
