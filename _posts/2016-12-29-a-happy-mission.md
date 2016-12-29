@@ -8,8 +8,8 @@ description: >-
   Olympic marathoner while enjoying every mile of it. Their superhuman talent is
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
-dateModified: '2016-12-29T22:35:12.855Z'
-datePublished: '2016-12-29T22:35:13.703Z'
+dateModified: '2016-12-29T22:37:03.790Z'
+datePublished: '2016-12-29T22:37:04.709Z'
 title: A Happy Mission
 author: []
 publisher: {}
@@ -63,7 +63,7 @@ _type: MediaObject
 
 ## **Social**
 
-## On why we may have to reformat our brains regarding social status per which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
+## On why we may need to "reformat our CPU," regarding social status per which parent or extended family member' values are most likely to help us evolve towards optimal interaction.
 
 ## TO BE CONTINUED...
 
