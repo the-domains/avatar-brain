@@ -8,8 +8,8 @@ description: >-
   Olympic marathoner while enjoying every mile of it. Their superhuman talent is
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
-dateModified: '2016-12-29T14:28:13.350Z'
-datePublished: '2016-12-29T14:28:13.991Z'
+dateModified: '2016-12-29T14:29:35.616Z'
+datePublished: '2016-12-29T14:29:36.506Z'
 title: |-
   Most powerful is he who has himself in his power. 
   ―Seneca
@@ -25,5 +25,3 @@ _type: Blurb
 
 ---
 !["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence." ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57326941-ab95-4b93-9243-a15dc92b296f.png)
-
----
