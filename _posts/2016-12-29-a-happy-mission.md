@@ -1,15 +1,8 @@
 ---
 inFeed: true
-description: >-
-  "Isolated by the most savage terrain in North America, the reclusive
-  Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost
-  art. For centuries, they have practiced techniques that allow them to run
-  hundreds of miles without rest and chase down anything from a deer to an
-  Olympic marathoner while enjoying every mile of it. Their superhuman talent is
-  matched by uncanny health and serenity, leaving the Tarahumara immune to the
-  diseases and strife that plague modern existence." ―Christopher McDougall
-dateModified: '2016-12-29T22:37:03.790Z'
-datePublished: '2016-12-29T22:37:04.709Z'
+description: ''
+dateModified: '2016-12-29T22:39:06.996Z'
+datePublished: '2016-12-29T22:39:08.403Z'
 title: A Happy Mission
 author: []
 publisher: {}
@@ -23,8 +16,6 @@ datePublishedOriginal: '2016-12-29T19:38:29.696Z'
 _type: MediaObject
 
 ---
-!["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence." ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5e8c577-0c17-40f2-af19-c3da0654dfa4.png)
-
 # **A Happy Mission**
 
 ### How coincidental that "Happiness," that elusive state of being among living creatures, derives from hap "chance, fortune, luck." Fortunately, our chances of attaining it, increase over the long term, with our ability to preserve our Cerebral, Physical, Financial, and Social health.
