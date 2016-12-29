@@ -8,16 +8,18 @@ description: >-
   Olympic marathoner while enjoying every mile of it. Their superhuman talent is
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
-dateModified: '2016-12-29T18:10:26.651Z'
-datePublished: '2016-12-29T18:10:27.052Z'
+dateModified: '2016-12-29T18:10:40.670Z'
+datePublished: '2016-12-29T18:10:41.875Z'
 title: A Happy Mission
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-12-29-a-happy-mission.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-29T18:08:22.333Z'
-_type: Blurb
+url: a-happy-mission/index.html
+_type: Article
 
 ---
 !["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence." ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d6bf73d-1f44-4da4-8e81-d315c4167769.png)
