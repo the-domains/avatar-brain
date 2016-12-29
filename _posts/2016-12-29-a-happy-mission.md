@@ -5,8 +5,8 @@ description: >-
   creatures, derives from hap "chance, fortune, luck." Fortunately, our chances
   of attaining it, increase over the long term, with our ability to preserve our
   Cerebral, Physical, Financial, and Social health.
-dateModified: '2016-12-29T17:31:04.020Z'
-datePublished: '2016-12-29T17:31:04.490Z'
+dateModified: '2016-12-29T17:32:01.140Z'
+datePublished: '2016-12-29T17:32:01.640Z'
 title: A Happy Mission
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ datePublishedOriginal: '2016-12-29T14:40:07.653Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07832b66-e371-4b81-8fa7-85f29bcc980e.png)
+!["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence." ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07832b66-e371-4b81-8fa7-85f29bcc980e.png)
 
 # **A Happy Mission**
 
