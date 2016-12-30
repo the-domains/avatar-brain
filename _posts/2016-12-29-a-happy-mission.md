@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-30T04:40:13.322Z'
-datePublished: '2016-12-30T04:40:14.219Z'
+dateModified: '2016-12-30T04:42:33.314Z'
+datePublished: '2016-12-30T04:42:35.087Z'
 title: A Happy Mission
 author: []
 publisher: {}
@@ -32,7 +32,7 @@ _type: MediaObject
 
 ### I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other sensation and perception organs managed by our brain's sensory system.
 
-### SOFTWARE is the encoded information and instructions fed to the CPU and I/O devices to make them work a certain way. In our case, software encoded via sounds, colors, flavors, aromas, textures, etc. and fed to our brain through our sensory organs from an early age, shapes the set of stimuli that will automatically bring up positive feedback reactions. 
+### SOFTWARE is the encoded information and instructions fed to the CPU and I/O devices to make them work a certain way. In our case, software encoded via sounds, colors, flavors, aromas, textures, etc. and fed to our brain through our sensory organs from an early age, shapes the set of stimuli that will automatically bring up positive feedback reactions
 
 ## **Physical**
 
