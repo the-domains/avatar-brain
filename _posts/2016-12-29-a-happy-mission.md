@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-29T23:15:00.987Z'
-datePublished: '2016-12-29T23:15:02.293Z'
+dateModified: '2016-12-30T03:45:22.683Z'
+datePublished: '2016-12-30T03:45:23.521Z'
 title: A Happy Mission
 author: []
 publisher: {}
@@ -30,17 +30,17 @@ _type: MediaObject
 
 ### OS which stands for Operating System in the computer, might mean Organized Screener (Pre-frontal Cortex) in our case.
 
-### I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other Sensation and Perception organs managed by our brain's sensory systems.
+### I/O stands for Input and Output devices, such as monitor, keyboard, mouse, etc. In our case, the I/O devices are our eyes, ears, skin and other sensation and perception organs managed by our brain's sensory system.
 
-### SOFTWARE in contrast to the physical hardware such as the CPU and I/O devices, the software is the information and instructions encoded in computer language and fed to it to make it work a certain way. In our case, software is the information and instructions encoded via sounds, colors, flavors, aromas, textures, etc. fed to our brains through our sensory organs to make us behave certain ways, prefer certain products, control the extent of our actions, etc.
+### SOFTWARE is the encoded information and instructions fed to the CPU and I/O devices to make them work a certain way. In our case, software is encoded via sounds, colors, flavors, aromas, textures, etc. fed to our brains through our sensory organs to make us behave in certain ways, prefer certain products and to a large extent, shape our actions.
 
 ## **Physical**
 
 ## Many of the foods and habits said to prolong our health might be harmful or at best useless over the long-term. For instance, when it comes to:
 
-### Nutrition, keeping our brain healthy depends on nutrition more than any other factor. Yet, as this _**[summary explains][0]**_, it may be impossible to change our fate in this area, unless we realize that since childhood, our sense of taste has been groomed in favor of someone else's economic interests, regardless of its long-term potential damage to us.
+### Nutrition, keeping our brain healthy depends on nutrition more than any other factor. Yet, as this _**[summary explains][0]**_, it may be impossible to change our fate in this area, unless we realize that our sense of taste has been groomed since childhood, to favor someone else's economic interests, regardless of its long-term effects on our health.
 
-### Exercise, most of us think of it as a way of counteracting the effects of unhealthy eating habits, it is harder to see how it can harm us without the proper gear. For instance, as posted in _**[Huarache Runners][1]**_ and better explained by Christopher McDougall (_**[see Appendix B link][0]**_), the larger the gap between our soles' nerve endings and the surface of the road we run on, the higher the likelihood of injury.
+### Exercise, most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion that fuels a yearning for useless gear. For instance, as posted in _**[Huarache Runners][1]**_ and better explained by Christopher McDougall (_**[Appendix B link][0]**_), the larger the gap between our soles' nerve endings and the surface of the road we run on, the higher the likelihood of injury.
 
 ## **Financial**
 
