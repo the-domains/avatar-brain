@@ -8,8 +8,8 @@ description: >-
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
   diseases and strife that plague modern existence." ―Christopher McDougall
 author: []
-datePublished: '2016-12-29T23:02:03.003Z'
-dateModified: '2016-12-29T23:02:02.228Z'
+datePublished: '2017-01-04T16:29:40.584Z'
+dateModified: '2017-01-04T16:29:40.251Z'
 title: Most powerful is he who has himself in his own power ―Seneca
 publisher: {}
 via: {}
