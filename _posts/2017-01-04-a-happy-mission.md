@@ -4,8 +4,8 @@ description: >-
   Visualizing our brain as a computer makes it easier to understand, how
   external entities can determine our state of health via grooming our
   perceptual experiences since childhood:
-dateModified: '2017-01-04T15:53:53.877Z'
-datePublished: '2017-01-04T15:54:30.160Z'
+dateModified: '2017-01-04T16:29:40.251Z'
+datePublished: '2017-01-04T16:29:40.592Z'
 title: A Happy Mission
 author: []
 publisher: {}
