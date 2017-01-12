@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-01-12T23:22:36.855Z'
-datePublished: '2017-01-12T23:22:37.231Z'
+dateModified: '2017-01-12T23:34:22.128Z'
+datePublished: '2017-01-12T23:34:22.597Z'
 title: We Are Our Brain’s Avatar
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Blurb
 ---
 ## **We Are Our Brain's Avatar**
 
-### **Happiness, that elusive state of being among living creatures, derives from hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
+### **Happiness that elusive state of being among living creatures, derives from hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
 
 ### **CEREBRAL (SOFTWARE)**: Visualizing our brain as a computer makes it easier to understand how external entities can determine our state of health via grooming our perceptual experiences since early in life:
 
@@ -37,9 +37,9 @@ Exercise, most of us think of it as a way of counteracting the effects of unheal
 
 ### **FINANCIAL (POWER)**: Over time, we will review three concepts that underlie all financial products. For now, the links below provide long-range perspective on how each of them can impact financial matters
 
-_**[Interest Rates][2]**:the price of uncertainty_
+_**[Interest Rates][2]**: The price of uncertainty_
 
-_**[Net Present Value][3]**:uncertainty rules the value of future cash flows_
+_**[Net Present Value][3]**: Uncertainty rules the value of future cash flows_
 
 _**[Information Symmetry][4]**: **I**nsight**\*P**eople**/U**ncertainty**=EXP W**ealth **G**rowth_
 
