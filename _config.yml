@@ -12,6 +12,9 @@ color:
     - '#BAC5C9'
 github: true
 layout_spectrum: 0.6482378969919674
+analytics:
+  google: UA-90359424-1
+  twitter: '#avatarbrain'
 author:
   email: 'Twitter: @olairet'
   name: We Are Our Brain's Avatar on Medium
