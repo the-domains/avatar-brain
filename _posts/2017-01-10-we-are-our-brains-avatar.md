@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-01-13T19:37:23.120Z'
-datePublished: '2017-01-13T19:37:23.572Z'
+dateModified: '2017-01-13T19:53:26.350Z'
+datePublished: '2017-01-13T19:53:26.859Z'
 title: We Are Our Brain’s Avatar
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ _type: Blurb
 
 ### **PHYSICAL (HARDWARE): Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:**
 
-**Nutrition-** keeping our brain healthy depends on this, more than any other factor. Yet, as this _**[summary][0]**_ explains, it is possible to change our fate in this area, if we realize our senses were bred from young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell damage
+**Nutrition-** keeping our brain healthy depends on this factor more than any other. Yet, as summarized _**[here][0]**_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell damage
 
 **Exercise-** most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _**[Huarache][1]**_ Runners and explained by Chris McDougall (_**[Appendix B][0]**_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
