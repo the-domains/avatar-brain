@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-01-13T20:08:40.355Z'
-datePublished: '2017-01-13T20:08:40.793Z'
-title: We Are Our Brain’s Avatar
+dateModified: '2017-01-14T01:41:26.027Z'
+datePublished: '2017-01-14T01:41:26.581Z'
+title: Our Brain’s Avatar
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-# **We Are Our Brain's Avatar**
+# **Our Brain's Avatar**
 
 ## **Happiness, that elusive state of being among living creatures, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
 
@@ -27,7 +27,7 @@ _type: Blurb
 
 **I/O** (Input/Output) devices like monitor, keyboard, or mouse, in us, are the sensory receptors linked to our brain: eyes, ears, nose, taste buds, skin, etc.
 
-**Software** commands fed to computers to do their work are fed to us via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough pleasure in us to continue consuming products proven to cause long-term harm
+**Software** commands fed to computers to do their work are fed to us via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough pleasure to keep us consuming products, even if we are aware they pose harm
 
 ### **PHYSICAL (HARDWARE): Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:**
 
@@ -41,7 +41,7 @@ _**[Interest Rates][2]**: The price of uncertainty_
 
 _**[Net Present Value][3]**: Uncertainty rules the value of future cash flows_
 
-_**[Information Symmetry][4]**_: _**I**nsight**\*P**eople**/U**ncertainty**=EXP****W**ealth **G**rowth_
+_**[Information Symmetry][4]**_: _**I**nsight**\*P**eople**/U**ncertainty**=EXPW**ealth **G**rowth_
 
 ### **SOCIAL (NETWORK): Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior codes, despite unique constraints**
 
