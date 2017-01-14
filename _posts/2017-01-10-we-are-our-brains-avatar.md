@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-01-14T01:41:26.027Z'
-datePublished: '2017-01-14T01:41:26.581Z'
+dateModified: '2017-01-14T01:48:16.083Z'
+datePublished: '2017-01-14T01:48:16.540Z'
 title: Our Brain’s Avatar
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ _type: Blurb
 
 **I/O** (Input/Output) devices like monitor, keyboard, or mouse, in us, are the sensory receptors linked to our brain: eyes, ears, nose, taste buds, skin, etc.
 
-**Software** commands fed to computers to do their work are fed to us via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough pleasure to keep us consuming products, even if we are aware they pose harm
+**Software** commands fed to computers to do their work are fed to us via sounds, colors, flavors, aromas, etc., since infancy to set what stimuli spur enough pleasure to keep us consuming products that we know, pose harm
 
 ### **PHYSICAL (HARDWARE): Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:**
 
