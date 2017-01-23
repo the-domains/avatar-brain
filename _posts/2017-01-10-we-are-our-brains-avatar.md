@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-01-23T01:27:09.179Z'
-datePublished: '2017-01-23T01:27:10.892Z'
+dateModified: '2017-01-23T12:25:23.464Z'
+datePublished: '2017-01-23T12:25:23.859Z'
 title: Our Brain’s Avatar
 author: []
 publisher: {}
@@ -41,7 +41,7 @@ _**[Interest Rates][2]**: The price of uncertainty_
 
 _**[Net Present Value][3]**: Uncertainty rules the value of future cash flows_
 
-_**[Information Symmetry][4]**_: _**I**nsight**\*P**eople**/U**ncertainty**=EXPW**ealth **G**rowth_
+_**[Information Symmetry][4]**_: _**I**nsight**\*P**eople**/U**ncertainty**= EXP W**ealth **G**rowth_
 
 ### SOCIAL (NETWORK): Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior codes, despite unique constraints
 
