@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-01-23T13:02:34.096Z'
-datePublished: '2017-01-23T13:02:34.567Z'
-title: Our Brain’s Avatar Is Us
+dateModified: '2017-01-23T13:35:22.849Z'
+datePublished: '2017-01-23T13:35:23.372Z'
+title: 'Our Brain’s Avatar Is Us and until we code it ourselves: TOYS Я US '
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-# **Our Brain's Avatar Is Us**
+# **Our Brain's Avatar Is Us and until we code it ourselves: TOYS Я US **
 
 ## **Happiness, that elusive state of being among living creatures, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
 
