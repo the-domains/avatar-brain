@@ -6,10 +6,10 @@ description: >-
   hundreds of miles without rest and chase down anything from a deer to an
   Olympic marathoner while enjoying every mile of it. Their superhuman talent is
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
-  diseases and strife that plague modern existence." ―Christopher McDougall
+  diseases and strife that plague modern existence."  ―Christopher McDougall
 author: []
-datePublished: '2017-01-04T16:29:40.584Z'
-dateModified: '2017-01-04T16:29:40.251Z'
+datePublished: '2017-01-23T00:58:11.012Z'
+dateModified: '2017-01-23T00:58:10.690Z'
 title: Most powerful is he who has himself in his own power ―Seneca
 publisher: {}
 via: {}
@@ -24,4 +24,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-!["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence." ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1913a5b-d596-48cf-821a-70b242b21c78.png)
+!["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence."  ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1913a5b-d596-48cf-821a-70b242b21c78.png)
