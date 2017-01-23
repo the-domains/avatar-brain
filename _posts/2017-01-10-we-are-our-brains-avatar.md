@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-01-23T20:08:33.609Z'
-datePublished: '2017-01-23T20:08:34.430Z'
-title: 'OUR BRAIN’S AVATAR IS US AND UNTIL WE CODE IT OURSELVES: TOYS Я US'
+dateModified: '2017-01-23T20:29:35.395Z'
+datePublished: '2017-01-23T20:29:35.916Z'
+title: 'OUR BRAIN’S AVATAR IS US, LEST WE START CODING IT, TOYS Я US!'
 author: []
 publisher: {}
 via: {}
@@ -15,9 +15,9 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-# OUR BRAIN'S AVATAR IS US AND UNTIL WE CODE IT OURSELVES: TOYS Я US
+# OUR BRAIN'S AVATAR IS US, LEST WE START CODING IT, TOYS Я US!
 
-## **Happiness, that elusive state of being among living creatures, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
+## **Happiness, that elusive state of being, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
 
 ### CEREBRAL (SOFTWARE): Visualizing our brain as a programmable node can help us grasp how our surrounding network can decide our state of health via grooming our perceptual experiences since infancy:
 
