@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-01-23T01:04:45.482Z'
-datePublished: '2017-01-23T01:04:47.087Z'
+dateModified: '2017-01-23T01:09:57.116Z'
+datePublished: '2017-01-23T01:09:59.184Z'
 title: Our Brain’s Avatar Is Us
 author: []
 publisher: {}
