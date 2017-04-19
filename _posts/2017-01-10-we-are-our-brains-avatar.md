@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-04-19T23:04:17.762Z'
-datePublished: '2017-04-19T23:04:18.174Z'
-title: RECODING THE BRAIN TO REGAIN CONTROL OF OUR AVATAR
+dateModified: '2017-04-19T23:37:19.089Z'
+datePublished: '2017-04-19T23:37:19.707Z'
+title: RECODE YOUR BRAIN TO REGAIN CONTROL OF YOUR AVATAR
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-# RECODING THE BRAIN TO REGAIN CONTROL OF OUR AVATAR
+# RECODE YOUR BRAIN TO REGAIN CONTROL OF YOUR AVATAR
 
 ## **Happiness, that elusive state of being, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
 
