@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-04-19T23:37:19.089Z'
-datePublished: '2017-04-19T23:37:19.707Z'
-title: RECODE YOUR BRAIN TO REGAIN CONTROL OF YOUR AVATAR
+dateModified: '2017-04-19T23:59:17.732Z'
+datePublished: '2017-04-19T23:59:20.096Z'
+title: RECODING THE BRAIN TO REGAIN CONTROL OF OUR OWN AVATAR
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-# RECODE YOUR BRAIN TO REGAIN CONTROL OF YOUR AVATAR
+# RECODING THE BRAIN TO REGAIN CONTROL OF OUR OWN AVATAR
 
 ## **Happiness, that elusive state of being, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
 
@@ -27,7 +27,7 @@ _type: Blurb
 
 **I/O** (Input/Output) devices like monitor, keyboard, or mouse, in us, are the sensory receptors linked to our brain: eyes, ears, nose, taste buds, skin, etc.
 
-**Software** commands fed to computers to do their work are fed to us via sounds, colors, flavors, aromas, etc., since infancy to set what stimuli spur enough pleasure to keep us consuming products that we know, pose harm
+**Software** commands fed to computers to do their work are fed to us via sounds, colors, flavors, aromas, etc. since infancy to set what stimuli spur enough pleasure to keep us consuming products that we know, pose harm
 
 ### PHYSICAL (HARDWARE): Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
