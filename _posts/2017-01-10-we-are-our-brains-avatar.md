@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-04-20T22:24:02.039Z'
-datePublished: '2017-04-20T22:24:02.458Z'
-title: 'UNLESS WE RECODE IT, OUR BRAIN WILL FEED OUR AVATAR TO THE NETWORK’S CODERS '
+dateModified: '2017-04-20T22:28:59.597Z'
+datePublished: '2017-04-20T22:29:00.186Z'
+title: 'UNLESS WE RECODE IT, OUR BRAIN WILL FEED OUR AVATAR TO THE NETWORK’S CODERS'
 author: []
 publisher: {}
 via: {}
@@ -15,11 +15,11 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-## UNLESS WE RECODE IT, OUR BRAIN WILL FEED OUR AVATAR TO THE NETWORK'S CODERS 
+## UNLESS WE RECODE IT, OUR BRAIN WILL FEED OUR AVATAR TO THE NETWORK'S CODERS
+
+### Visualizing our brain as a programmable node can help us grasp how our surrounding network can groom our perceptual experience and thus our faith. 
 
 ### Imagine our brains were web servers powering a +7 billion network and cultures were web-server languages, though language itself was only good for coding web-content. Question: if a group of coders became aware of this design, would they tell everyone, or concentrate on learning web-server coding, so they become the richest 1% on earth?
-
-### Visualizing our brain as a programmable node can help us grasp how our surrounding network of nodes can decide our state of health via grooming our perceptual experience.
 
 **CPU** stands for Central Processing Unit, but regarding our brain, it might as well stand for Completely Primitive Unconscious (Limbic System)
 
