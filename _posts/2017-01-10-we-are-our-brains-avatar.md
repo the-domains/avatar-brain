@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-04-20T04:10:22.608Z'
-datePublished: '2017-04-20T04:10:23.037Z'
-title: 'UNLESS WE RECODE IT, OUR BRAIN FEEDS OUR AVATAR TO ITS CODERS '
+dateModified: '2017-04-20T22:09:35.171Z'
+datePublished: '2017-04-20T22:09:35.610Z'
+title: 'Unless We Recode It, Our Brain will Feed Our Avatar to Its Coders'
 author: []
 publisher: {}
 via: {}
@@ -15,9 +15,9 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-# UNLESS WE RECODE IT, OUR BRAIN FEEDS OUR AVATAR TO ITS CODERS 
+# Unless We Recode It, Our Brain will Feed Our Avatar to Its Coders
 
-## **Happiness, that elusive state of being, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
+## Imagine our brains were servers powering a +7 billion network and cultures were web-server languages, though language itself was only good for coding web-content. Question: if a group of coders became aware of this, would they tell everyone or concentrate on learning web-server coding, so they become the richest 1% on earth? 
 
 ### CEREBRAL (SOFTWARE): Visualizing our brain as a programmable node can help us grasp how our surrounding network can decide our state of health via grooming our perceptual experiences since infancy:
 
