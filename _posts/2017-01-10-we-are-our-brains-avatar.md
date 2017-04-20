@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-04-20T03:40:50.514Z'
-datePublished: '2017-04-20T03:40:50.936Z'
-title: STOP THE BRAIN FROM FEEDING YOUR AVATAR TO ITS CODERS
+dateModified: '2017-04-20T03:58:02.303Z'
+datePublished: '2017-04-20T03:58:03.250Z'
+title: 'OUR AVATAR IS CODED TO ENRICH ITS CODERS,UNLESS WE RECODE IT'
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-# STOP THE BRAIN FROM FEEDING YOUR AVATAR TO ITS CODERS
+# OUR AVATAR IS CODED TO ENRICH ITS CODERS,UNLESS WE RECODE IT
 
 ## **Happiness, that elusive state of being, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
 
