@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-04-20T00:25:09.399Z'
-datePublished: '2017-04-20T00:25:10.572Z'
-title: THE COMMAND LINE PROMPT TO RECODE YOUR BRAIN’S AVATAR
+dateModified: '2017-04-20T00:26:14.487Z'
+datePublished: '2017-04-20T00:26:15.216Z'
+title: THE COMMAND LINE PROMPT TO ACCESS YOUR BRAIN’S AVATAR
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ datePublishedOriginal: '2017-01-13T16:49:40.119Z'
 _type: Blurb
 
 ---
-# THE COMMAND LINE PROMPT TO RECODE YOUR BRAIN'S AVATAR
+# THE COMMAND LINE PROMPT TO ACCESS YOUR BRAIN'S AVATAR
 
 ## **Happiness, that elusive state of being, derives from Hap (chance, fortune, luck), yet our odds of seizing it rise, the longer we preserve FOUR-DIMENSIONAL HEALTH:**
 
