@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-21T21:37:21.604Z'
-datePublished: '2017-04-21T21:37:22.131Z'
+dateModified: '2017-04-21T21:38:11.267Z'
+datePublished: '2017-04-21T21:38:11.738Z'
 title: 'UNLESS WE RECODE IT, OUR BRAIN WILL FEED OUR AVATAR TO THE NETWORK’S CODERS'
 author: []
 publisher: {}
@@ -17,8 +17,9 @@ _type: Blurb
 
 ### **Visualizing our brain as a computer node and culture as a network can help us grasp how perceptual experience decides our destiny**
 
-### **Imagine our brains were web servers powering a +7 billion network, cultures were web server languages and human languages were just web content code. Question: if a group of coders became aware of this design, would they tell everyone? Or would they concentrate on learning web server coding, so they become the richest 1% on earth?
-CPU** stands for Central Processing Unit, but regarding our brain, it might as well stand for Completely Primitive Unconscious (Limbic System)
+### **Imagine our brains were web servers powering a +7 billion network, cultures were web server languages and human languages were just web content code. Question: if a group of coders became aware of this design, would they tell everyone? Or would they concentrate on learning web server coding, so they become the richest 1% on earth? **
+
+### **CPU** stands for Central Processing Unit, but regarding our brain, it might as well stand for Completely Primitive Unconscious (Limbic System)
 
 ### **OS** stands for Operating System in a computer, yet it could mean Organized Screener (Pre-frontal Cortex), in our case, I/O (Input/Output) devices like monitor, keyboard, or mouse, in us, are the sensory receptors linked to our brain: eyes, ears, nose, taste buds, skin, etc.
 
