@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-21T21:32:47.249Z'
-datePublished: '2017-04-21T21:32:47.703Z'
+dateModified: '2017-04-21T21:37:21.604Z'
+datePublished: '2017-04-21T21:37:22.131Z'
 title: 'UNLESS WE RECODE IT, OUR BRAIN WILL FEED OUR AVATAR TO THE NETWORK’S CODERS'
 author: []
 publisher: {}
@@ -15,17 +15,16 @@ _type: Blurb
 ---
 ## **UNLESS WE RECODE IT, OUR BRAIN WILL FEED OUR AVATAR TO THE NETWORK'S CODERS**
 
-### **Visualizing our brain as a computer node and culture as a network can help us grasp how perceptual experience decides our destiny **
+### **Visualizing our brain as a computer node and culture as a network can help us grasp how perceptual experience decides our destiny**
 
-### **Imagine our brains were web servers powering a +7 billion network, cultures were web server languages and human languages were just web content code. Question: if a group of coders became aware of this design, would they tell everyone? Or would they concentrate on learning web server coding, so they become the richest 1% on earth?****CPU** stands for Central Processing Unit, but regarding our brain, it might as well stand for Completely Primitive Unconscious (Limbic System) 
+### **Imagine our brains were web servers powering a +7 billion network, cultures were web server languages and human languages were just web content code. Question: if a group of coders became aware of this design, would they tell everyone? Or would they concentrate on learning web server coding, so they become the richest 1% on earth?
+CPU** stands for Central Processing Unit, but regarding our brain, it might as well stand for Completely Primitive Unconscious (Limbic System)
 
-### **OS** stands for Operating System in a computer, yet it could mean Organized Screener (Pre-frontal Cortex), in our case 
-I/O (Input/Output) devices like monitor, keyboard, or mouse, in us, are the sensory receptors linked to our brain: eyes, ears, nose, taste buds, skin, etc.
+### **OS** stands for Operating System in a computer, yet it could mean Organized Screener (Pre-frontal Cortex), in our case, I/O (Input/Output) devices like monitor, keyboard, or mouse, in us, are the sensory receptors linked to our brain: eyes, ears, nose, taste buds, skin, etc.
 
 ### Software commands fed to computers to do their work are fed to us via sounds, colors, flavors, aromas, etc. since infancy to set what stimuli spur enough pleasure to keep us consuming products that we know, pose harm
 
-### PHYSICAL (HARDWARE): Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
-Nutrition- keeping our brain healthy depends on this factor more than any other. Yet, as summarized here, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell damage
+### PHYSICAL (HARDWARE): Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to Nutrition- keeping our brain healthy depends on this factor more than any other. Yet, as summarized here, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell damage
 
 ### Exercise- most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in Huarache Runners and explained by Chris McDougall (Appendix B), the larger the gap between our sole's nerve endings and the surface we run on, the higher the potential for injury
 
