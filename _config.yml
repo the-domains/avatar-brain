@@ -35,7 +35,33 @@ navigation:
     url: 'http://sequoian.com/wp-content/uploads/2017/08/Information_Symmetry.pdf'
     type: external
 title: The beholder within
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: interactive
+    html: >-
+      <iframe
+      src="https://drive.google.com/viewerng/viewer?url=http%3A//sequoian.com/wp-content/uploads/2017/08/Predator-Prey2.pdf&embedded=true"
+      width="600" height="780"></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://sequoian.com'
+        name: Sequoian
+        favicon: null
+        domain: sequoian.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'http://sequoian.com/wp-content/uploads/2017/08/Predator-Prey2.pdf'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   Increasing the odds of finding happiness for ourselves, our families, and
   communities by learning how to preserve Cerebral, Physical, Financial and
