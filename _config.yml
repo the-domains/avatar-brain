@@ -1,4 +1,3 @@
-layout_spectrum: 0.6718195573489486
 typography_spectrum: 0.3953637053928163
 color:
   brandStrength: 0.5490521073803343
@@ -12,6 +11,7 @@ color:
     - '#C54831'
     - '#BAC5C9'
 github: true
+layout_spectrum: 0.6718195573489486
 analytics:
   google: UA-90359424-1
   twitter: '#avatarbrain'
@@ -30,6 +30,9 @@ navigation:
     type: external
   - name: Open Source Capitalism
     url: 'https://www.facebook.com/InformationSymmetry'
+    type: external
+  - name: Information Asymmetry
+    url: 'http://sequoian.com/wp-content/uploads/2017/08/Information_Symmetry.pdf'
     type: external
 title: The beholder within
 content: []
