@@ -17,19 +17,16 @@ analytics:
   twitter: '#avatarbrain'
 author:
   email: 'Twitter: @olairet'
-  name: Our Brain's Avatar on Medium
-  url: 'https://medium.com/@olairet/we-are-our-brains-avatar-ee921df29257#.mxbkzdm5n'
+  name: Oswaldo Lairet
+  url: 'https://www.facebook.com/InformationSymmetry'
 name: Avatar-Brain
 url: 'http://avatarbrain.com'
 navigation:
   - name: Hack The Matrix
-    url: 'http://www.infoasy.com/2016/07/hack-matrix_29.html'
+    url: 'http://www.infoasy.com/2016/07/hack-matrix.html'
     type: external
   - name: Huarache Runners
     url: 'https://www.strava.com/clubs/huarache-runners'
-    type: external
-  - name: Information Asymmetry
-    url: 'http://sequoian.com/wp-content/uploads/2016/03/Information-Symmetry.pdf'
     type: external
   - name: Open Source Capitalism
     url: 'https://www.facebook.com/InformationSymmetry'
