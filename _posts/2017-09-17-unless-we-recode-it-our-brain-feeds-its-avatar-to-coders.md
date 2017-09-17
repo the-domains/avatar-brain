@@ -1,12 +1,9 @@
 ---
 inFeed: true
-description: >-
-  Visualizing our brain as a web-server and culture as a network, reveals why
-  perceptual experience causes so many interpretations and with each, a
-  different destiny
-dateModified: '2017-09-17T15:00:27.977Z'
-datePublished: '2017-09-17T15:00:29.015Z'
-title: 'We Are Our Brain’s Avatar …And Until We Recode It, The Store’s Avatars Я Us!'
+description: Cultural Avatars Я Us -Until We Recode
+dateModified: '2017-09-17T16:07:15.981Z'
+datePublished: '2017-09-17T16:07:17.351Z'
+title: ''
 author:
   - {}
 publisher: {}
@@ -18,11 +15,10 @@ datePublishedOriginal: '2017-09-17T00:53:12.352Z'
 _type: MediaObject
 
 ---
+Cultural Avatars Я Us -Until We Recode
 ![Everything we see is a perspective, not the truth ―Marcus Aurelius](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/69cc6f5aa2e07d256d2fb60d0c3e82d0/croprotate.png?cropheight=4910&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc79d3ac5-6db6-4deb-b211-4021caf4517d.png&x=0&y=0)
 
-# We Are Our Brain's Avatar ...And Until We Recode It, The Store's Avatars Я Us!
-
-Visualizing our brain as a web-server and culture as a network, reveals why perceptual experience causes so many interpretations and with each, a different destiny
+Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, another destiny
 
 **CEREBRAL (SOFTWARE)**
 
