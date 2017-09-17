@@ -1,12 +1,9 @@
 ---
 inFeed: true
-description: >-
-  Visualizing our brain as a web-server and culture as a network, reveals why
-  identical perceptual experiences cause myriad interpretations and with each,
-  another destiny
-dateModified: '2017-09-17T16:25:37.335Z'
-datePublished: '2017-09-17T16:25:38.039Z'
-title: 'Culturally Coded Avatars Я Us  '
+description: CEREBRAL (SOFTWARE)
+dateModified: '2017-09-17T16:27:45.612Z'
+datePublished: '2017-09-17T16:27:46.171Z'
+title: Culturally Coded Avatars Я Us
 author:
   - {}
 publisher: {}
@@ -18,9 +15,10 @@ datePublishedOriginal: '2017-09-17T00:53:12.352Z'
 _type: MediaObject
 
 ---
-### Culturally Coded Avatars Я Us ![Everything we see is a perspective, not the truth ―Marcus Aurelius](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e26030789c61b4ba08a9c5f2c8a9e9c11d55e3d.png)
+## Culturally Coded Avatars Я Us
+![Everything we see is a perspective, not the truth ―Marcus Aurelius](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e26030789c61b4ba08a9c5f2c8a9e9c11d55e3d.png)
 
-Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, another destiny
+### Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, another destiny
 
 **CEREBRAL (SOFTWARE)**
 
