@@ -3,23 +3,27 @@ inFeed: true
 description: >-
   CPU Stands for Central Processing Unit, but regarding our brain, it might as
   well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-09-17T00:54:15.745Z'
-datePublished: '2017-09-17T00:54:16.171Z'
-title: 'UNLESS WE RECODE IT, OUR BRAIN FEEDS ITS AVATAR TO ITS CODERS'
-author: []
-publisher: {}
+dateModified: '2017-09-17T01:05:38.164Z'
+datePublished: '2017-09-17T01:05:38.716Z'
+title: AVATARS Я US TO OUR BRAIN’S CODERS -UNLESS WE RECODE IT-
+author:
+  - {}
+publisher:
+  name: E. Bresciani + J. Orrico
+  url: 'https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk) '
 via: {}
 sourcePath: _posts/2017-09-17-unless-we-recode-it-our-brain-feeds-its-avatar-to-coders.md
+isBasedOnUrl: 'https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk) '
 starred: false
 datePublishedOriginal: '2017-09-17T00:53:12.352Z'
-_type: Blurb
+_type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/69cc6f5aa2e07d256d2fb60d0c3e82d0/croprotate.png?cropheight=4910&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc79d3ac5-6db6-4deb-b211-4021caf4517d.png&x=0&y=0)
+![Everything we see is a perspective, not the truth ―Marcus Aurelius](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/69cc6f5aa2e07d256d2fb60d0c3e82d0/croprotate.png?cropheight=4910&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc79d3ac5-6db6-4deb-b211-4021caf4517d.png&x=0&y=0)
 
-# **UNLESS WE RECODE IT, OUR BRAIN FEEDS ITS AVATAR TO ITS CODERS**
+# **AVATARS Я US TO OUR BRAIN'S CODERS -UNLESS WE RECODE IT-**
 
-## Visualizing our brain as a computer node and culture as a network can help us grasp how perceptual experience decides our destiny
+# Visualizing our brain as a computer node and culture as a network can help us grasp how perceptual experience decides our destiny
 
 ### Imagine culture was a web-server language, while human languages were just code to provide content for a +7 billion network of brain-servers. Question: if a group of coders became aware of this design, would they tell everyone? Or would they concentrate on learning web-server language, so they could become the richest 1% on earth?
 
