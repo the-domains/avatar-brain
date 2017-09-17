@@ -7,8 +7,8 @@ description: >-
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can become the most powerful elite on
   earth?
-dateModified: '2017-09-17T01:28:10.674Z'
-datePublished: '2017-09-17T01:28:11.413Z'
+dateModified: '2017-09-17T01:29:54.866Z'
+datePublished: '2017-09-17T01:29:55.391Z'
 title: AVATARS Я US TO OUR BRAIN’S CODERS -UNLESS WE RECODE IT-
 author:
   - {}
