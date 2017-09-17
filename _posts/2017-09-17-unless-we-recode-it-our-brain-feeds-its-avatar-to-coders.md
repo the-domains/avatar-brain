@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Everything we see is a perspective, not the truth ―Marcus Aurelius'
-dateModified: '2017-09-17T16:38:18.206Z'
-datePublished: '2017-09-17T16:38:18.808Z'
+description: CEREBRAL (SOFTWARE)
+dateModified: '2017-09-17T17:03:05.171Z'
+datePublished: '2017-09-17T17:03:05.724Z'
 title: Brain-Coded Avatars Я Us
 author:
   - {}
@@ -16,9 +16,6 @@ _type: MediaObject
 
 ---
 # Brain-Coded Avatars Я Us
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e26030789c61b4ba08a9c5f2c8a9e9c11d55e3d.png)
-
-Everything we see is a perspective, not the truth ―Marcus Aurelius
 
 ## Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, a different destiny
 
