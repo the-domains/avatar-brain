@@ -7,8 +7,8 @@ description: >-
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can become the most powerful elite on
   earth?
-dateModified: '2017-09-17T01:29:54.866Z'
-datePublished: '2017-09-17T01:29:55.391Z'
+dateModified: '2017-09-17T01:40:16.171Z'
+datePublished: '2017-09-17T01:40:16.728Z'
 title: AVATARS Я US TO OUR BRAIN’S CODERS -UNLESS WE RECODE IT-
 author:
   - {}
@@ -47,7 +47,7 @@ Imagine our brains are web servers powering a +7 billion network, where culture 
 
 **Nutrition** Keeping our brain healthy depends on this factor more than any. Yet, as shown in _**[Hack The Matrix][0]**_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
 
-**Exercise **Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _**[Huarache][1]**_ Runners and explained by Chris McDougall (_**[Appendix B][0]**_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
+**Exercise **Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _**[Huarache][1]**_**[Runners][1]** and explained by Chris McDougall (_**[Appendix B][0]**_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
 ### **FINANCIAL (POWER)**
 
