@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: >-
-  CPU stands for Central Processing Unit, yet regarding our brain, it refers to
-  our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-09-17T01:18:54.660Z'
-datePublished: '2017-09-17T01:18:55.645Z'
+  Imagine our brains are web servers powering a +7 billion network, where
+  culture is a web-server language, while human language can only code web
+  content. Question: If a group of coders became aware of this design, would
+  they tell us? Or would they concentrate on coding “cultural illusions” they
+  can sell to the rest of us, so they can become the most powerful elite on
+  earth?
+dateModified: '2017-09-17T01:21:47.026Z'
+datePublished: '2017-09-17T01:21:47.484Z'
 title: AVATARS Я US TO OUR BRAIN’S CODERS -UNLESS WE RECODE IT-
 author:
   - {}
-publisher:
-  name: E. Bresciani + J. Orrico
-  url: 'https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk) '
+publisher: {}
 via: {}
 sourcePath: _posts/2017-09-17-unless-we-recode-it-our-brain-feeds-its-avatar-to-coders.md
 isBasedOnUrl: 'https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk) '
@@ -25,9 +27,9 @@ _type: MediaObject
 
 ## Visualizing our brain as a web-server and culture as the network helps grasp how perceptual experience decides our destiny
 
-### **CEREBRAL (SOFTWARE) **
+### **CEREBRAL (SOFTWARE)**
 
-### Imagine our brains are web servers powering a +7 billion network, where culture is a web-server language, while human language can only code web content. Question: If a group of coders became aware of this design, would they tell us? Or would they concentrate on coding "cultural illusions" they can sell to the rest of us, so they can become the most powerful elite on earth?
+Imagine our brains are web servers powering a +7 billion network, where culture is a web-server language, while human language can only code web content. Question: If a group of coders became aware of this design, would they tell us? Or would they concentrate on coding "cultural illusions" they can sell to the rest of us, so they can become the most powerful elite on earth?
 
 ### **KEYMAKER**
 
@@ -47,7 +49,7 @@ _type: MediaObject
 
 **Exercise **Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _**[Huarache][1]**_ Runners and explained by Chris McDougall (_**[Appendix B][0]**_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
-### **FINANCIAL (POWER) **
+### **FINANCIAL (POWER)**
 
 ### Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
