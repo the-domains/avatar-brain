@@ -6,8 +6,8 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-17T17:54:52.674Z'
-datePublished: '2017-09-17T17:54:53.605Z'
+dateModified: '2017-09-17T18:29:15.976Z'
+datePublished: '2017-09-17T18:29:16.671Z'
 title: Brain-Coded Avatars Я Us
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -23,8 +23,6 @@ _type: Article
 ---
 # Brain-Coded Avatars Я Us
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21657f1f-9428-40e3-87dd-23434eb7f653.png)
-
-## **Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, a different destiny**
 
 ### **CEREBRAL (SOFTWARE)**
 
@@ -44,7 +42,7 @@ Imagine our brains are web servers powering a +7 billion network, where culture 
 
 Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
-Nutrition Keeping our brain healthy depends on this factor more than any. Yet, as shown in **[Hack The Matrix][0]**, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
+Nutrition Keeping our brain healthy depends on this factor more than any. Yet, as shown in **[Hack the Matrix][0]**, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
 
 Exercise Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in **[Huarache Runners][1]** and explained by Chris McDougall (**[Appendix B][0]**), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
@@ -58,23 +56,19 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 **[Information Symmetry][4]: **Insight\*People/Uncertainty= EXP Wealth Growth
 
-**SOCIAL (NETWORK)**
+### **SOCIAL (NETWORK)**
 
 Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
 
 **CREDITS**
 
-_A lighted skull (bottom right) turns
-invisible against a background of Times Square lights. Combined from "Times
-Square" E. Bresciani ([https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk][5]) and "Acrylic Brain" by J. Orrico ([https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU][6])_
+_A lighted skull (bottom right) turns invisible against a background of Times Square lights. Combined from "Times Square" E. Bresciani ([https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk][5]) and "Acrylic Brain" by J. Orrico ([https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU][6])_
 
 #### **LINKS**
 
-[Avatar-Brain][7], [Information Asymmetry][4], [Hack the Matrix ][0],
-[Sequoian][8]
+[Avatar-Brain][7], [Information Asymmetry][4], [Hack the Matrix ][0], [Sequoian][8]
 
-Psychology, Health Finance,
-Equality, Philosophy
+Psychology, Health Finance, Equality, Philosophy
 
 [0]: http://www.infoasy.com/
 [1]: https://www.strava.com/clubs/huarache-runners
