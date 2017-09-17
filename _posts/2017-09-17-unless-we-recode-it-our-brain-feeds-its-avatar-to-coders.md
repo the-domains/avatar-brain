@@ -6,9 +6,9 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-17T18:31:10.135Z'
-datePublished: '2017-09-17T18:31:10.238Z'
-title: Brain-Coded Avatars Я Us
+dateModified: '2017-09-17T20:21:01.075Z'
+datePublished: '2017-09-17T20:21:01.621Z'
+title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
 publisher: {}
@@ -21,7 +21,7 @@ url: brain-coded-avatars-ya-us/index.html
 _type: Article
 
 ---
-# Brain-Coded Avatars Я Us
+# Brain-Coded Avatars Я Us!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21657f1f-9428-40e3-87dd-23434eb7f653.png)
 
 ### **CEREBRAL (SOFTWARE)**
