@@ -29,7 +29,7 @@ navigation:
     url: 'https://www.strava.com/clubs/huarache-runners'
     type: external
   - name: Open Source Capitalism
-    url: 'hhttp://sequoian.com/wp-content/uploads/2017/08/Predator-Prey2.pdf'
+    url: 'http://sequoian.com/2017/08/wp-contentuploads201708predator-prey2-pdf/'
     type: external
   - name: Information Asymmetry
     url: 'http://sequoian.com/wp-content/uploads/2017/08/Information_Symmetry.pdf'
@@ -78,7 +78,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
