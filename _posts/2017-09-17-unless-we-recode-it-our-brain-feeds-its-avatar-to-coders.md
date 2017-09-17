@@ -7,8 +7,8 @@ description: >-
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can become the most powerful elite on
   earth?
-dateModified: '2017-09-17T01:21:47.026Z'
-datePublished: '2017-09-17T01:21:47.484Z'
+dateModified: '2017-09-17T01:26:42.201Z'
+datePublished: '2017-09-17T01:26:42.800Z'
 title: AVATARS Я US TO OUR BRAIN’S CODERS -UNLESS WE RECODE IT-
 author:
   - {}
@@ -25,7 +25,7 @@ _type: MediaObject
 
 # **AVATARS Я US TO OUR BRAIN'S CODERS -UNLESS WE RECODE IT-**
 
-## Visualizing our brain as a web-server and culture as the network helps grasp how perceptual experience decides our destiny
+## Visualizing our brain as a web-server and culture as the network, helps grasp how perceptual experience decides our destiny
 
 ### **CEREBRAL (SOFTWARE)**
 
