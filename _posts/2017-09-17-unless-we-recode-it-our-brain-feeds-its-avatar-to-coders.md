@@ -1,9 +1,12 @@
 ---
 inFeed: true
-description: Cultural Avatars Я Us -Until We Recode
-dateModified: '2017-09-17T16:07:15.981Z'
-datePublished: '2017-09-17T16:07:17.351Z'
-title: ''
+description: >-
+  Visualizing our brain as a web-server and culture as a network, reveals why
+  identical perceptual experiences cause myriad interpretations and with each,
+  another destiny
+dateModified: '2017-09-17T16:11:14.962Z'
+datePublished: '2017-09-17T16:11:15.887Z'
+title: Cultural Avatars Я Us -Until We Recode
 author:
   - {}
 publisher: {}
@@ -15,7 +18,7 @@ datePublishedOriginal: '2017-09-17T00:53:12.352Z'
 _type: MediaObject
 
 ---
-Cultural Avatars Я Us -Until We Recode
+### Cultural Avatars Я Us -Until We Recode
 ![Everything we see is a perspective, not the truth ―Marcus Aurelius](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/69cc6f5aa2e07d256d2fb60d0c3e82d0/croprotate.png?cropheight=4910&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc79d3ac5-6db6-4deb-b211-4021caf4517d.png&x=0&y=0)
 
 Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, another destiny
