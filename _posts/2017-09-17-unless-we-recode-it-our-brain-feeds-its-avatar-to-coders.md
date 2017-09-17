@@ -4,8 +4,8 @@ description: >-
   Software Contains the commands for computers to do their work. In our case,
   these commands are fed since infancy, via sounds, colors, flavors, aromas,
   etc. to set what stimuli spur enough dopamine to keep us coming for more
-dateModified: '2017-09-17T01:10:47.322Z'
-datePublished: '2017-09-17T01:10:47.858Z'
+dateModified: '2017-09-17T01:12:05.324Z'
+datePublished: '2017-09-17T01:12:05.864Z'
 title: AVATARS Я US TO OUR BRAIN’S CODERS -UNLESS WE RECODE IT-
 author:
   - {}
@@ -24,7 +24,7 @@ _type: MediaObject
 
 # **AVATARS Я US TO OUR BRAIN'S CODERS -UNLESS WE RECODE IT-**
 
-# Visualizing our brain as a computer node and culture as a network can help us grasp how perceptual experience decides our destiny
+# Visualizing brains as computer nodes and culture as a network help us grasp how perceptual experience decides our destiny
 
 ### **KEYMAKER**
 
