@@ -6,8 +6,8 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-17T18:29:15.976Z'
-datePublished: '2017-09-17T18:29:16.671Z'
+dateModified: '2017-09-17T18:31:10.135Z'
+datePublished: '2017-09-17T18:31:10.238Z'
 title: Brain-Coded Avatars Я Us
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
