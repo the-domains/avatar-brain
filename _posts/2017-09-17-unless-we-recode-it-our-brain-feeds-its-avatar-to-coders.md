@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Everything we see is a perspective, not the truth ―Marcus Aurelius'
-dateModified: '2017-09-17T16:37:07.386Z'
-datePublished: '2017-09-17T16:37:08.242Z'
+dateModified: '2017-09-17T16:38:18.206Z'
+datePublished: '2017-09-17T16:38:18.808Z'
 title: Brain-Coded Avatars Я Us
 author:
   - {}
