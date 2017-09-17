@@ -1,20 +1,23 @@
 ---
 inFeed: true
 description: CEREBRAL (SOFTWARE)
-dateModified: '2017-09-17T17:03:05.171Z'
-datePublished: '2017-09-17T17:03:05.724Z'
+dateModified: '2017-09-17T17:16:41.013Z'
+datePublished: '2017-09-17T17:16:41.463Z'
 title: Brain-Coded Avatars Я Us
 author:
-  - {}
+  - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
 publisher: {}
 via: {}
 sourcePath: _posts/2017-09-17-unless-we-recode-it-our-brain-feeds-its-avatar-to-coders.md
-isBasedOnUrl: 'https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk) '
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-17T00:53:12.352Z'
-_type: MediaObject
+url: brain-coded-avatars-ya-us/index.html
+_type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21657f1f-9428-40e3-87dd-23434eb7f653.png)
+
 # Brain-Coded Avatars Я Us
 
 ## Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, a different destiny
