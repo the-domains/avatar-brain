@@ -1,10 +1,11 @@
 ---
 inFeed: true
 description: >-
-  CPU Stands for Central Processing Unit, but regarding our brain, it might as
-  well stand for Completely Primitive Unconscious (Limbic System)
-dateModified: '2017-09-17T01:05:38.164Z'
-datePublished: '2017-09-17T01:05:38.716Z'
+  Software Contains the commands for computers to do their work. In our case,
+  these commands are fed since infancy, via sounds, colors, flavors, aromas,
+  etc. to set what stimuli spur enough dopamine to keep us coming for more
+dateModified: '2017-09-17T01:10:47.322Z'
+datePublished: '2017-09-17T01:10:47.858Z'
 title: AVATARS Я US TO OUR BRAIN’S CODERS -UNLESS WE RECODE IT-
 author:
   - {}
@@ -25,25 +26,25 @@ _type: MediaObject
 
 # Visualizing our brain as a computer node and culture as a network can help us grasp how perceptual experience decides our destiny
 
-### Imagine culture was a web-server language, while human languages were just code to provide content for a +7 billion network of brain-servers. Question: if a group of coders became aware of this design, would they tell everyone? Or would they concentrate on learning web-server language, so they could become the richest 1% on earth?
+### **KEYMAKER**
 
-## KEY-MAKER:
+### **CEREBRAL (SOFTWARE) **Imagine our brains are web servers powering a +7 billion network, where culture is a web-server language, while human language can only code web content. Question: If a group of coders became aware of this design, would they tell us? Or would they concentrate on coding "cultural illusions" they can sell to the rest of us, so they can become the most powerful elite on earth?
 
-**CPU** Stands for Central Processing Unit, but regarding our brain, it might as well stand for Completely Primitive Unconscious (Limbic System)
+### **CPU** stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
 
-**OS** Stands for Operating System in a computer, yet it could mean Organized Screener (Pre-frontal Cortex), in our case
+### **OS** stands for Operating System in computers. Organized Screener in our case, one of the many executive functions of the Prefrontal Cortex
 
-**I/O** (Input/Output) Devices like monitor, keyboard, or mouse, similar to the sensory receptors linked to our brain: eyes, ears, nose, taste buds, skin, etc.
+### **I/O** (Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
 
 **Software** Contains the commands for computers to do their work. In our case, these commands are fed since infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep us coming for more
 
-**Hardware **Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
+**PHYSICAL (HARDWARE)******Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
 **Nutrition** Keeping our brain healthy depends on this factor more than any. Yet, as shown in _**[Hack The Matrix][0]**_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
 
 **Exercise **Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _**[Huarache][1]**_ Runners and explained by Chris McDougall (_**[Appendix B][0]**_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
-**Power** (Finance) Linked below are 3 concepts underlie that provide long-range perspective on what truly underlies financial matters
+**FINANCIAL (POWER) **Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
 _**[Interest Rates][2]**: The price of uncertainty_
 
@@ -51,7 +52,7 @@ _**[Net Present Value][3]**: Uncertainty rules the value of future cash flows_
 
 _**[Information Symmetry][4]**_: _**I**nsight**\*P**eople**/U**ncertainty**= EXP W**ealth **G**rowth_
 
-#### Network (Social) Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
+#### **SOCIAL (NETWORK)** Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
 
 #### TO BE CONTINUED...
 
