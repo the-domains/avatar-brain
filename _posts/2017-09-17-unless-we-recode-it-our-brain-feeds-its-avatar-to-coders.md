@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: CEREBRAL (SOFTWARE)
-dateModified: '2017-09-17T16:27:45.612Z'
-datePublished: '2017-09-17T16:27:46.171Z'
-title: Culturally Coded Avatars Я Us
+description: 'Everything we see is a perspective, not the truth ―Marcus Aurelius'
+dateModified: '2017-09-17T16:35:36.656Z'
+datePublished: '2017-09-17T16:35:37.238Z'
+title: 'Brain-Coded Avatars Я Us  '
 author:
   - {}
 publisher: {}
@@ -15,14 +15,15 @@ datePublishedOriginal: '2017-09-17T00:53:12.352Z'
 _type: MediaObject
 
 ---
-## Culturally Coded Avatars Я Us
-![Everything we see is a perspective, not the truth ―Marcus Aurelius](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e26030789c61b4ba08a9c5f2c8a9e9c11d55e3d.png)
+# Brain-Coded Avatars Я Us ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e26030789c61b4ba08a9c5f2c8a9e9c11d55e3d.png)
 
-### Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, another destiny
+Everything we see is a perspective, not the truth ―Marcus Aurelius
+
+## Visualizing our brain as a web-server and culture as a network, reveals why identical perceptual experiences cause myriad interpretations and with each, a different destiny
 
 **CEREBRAL (SOFTWARE)**
 
-Imagine our brains are web servers powering a +7 billion network, where culture is a web-server language, while human language can only code web content. Question: If a group of coders became aware of this design, would they tell us? Or would they concentrate on coding "cultural illusions" they can sell to the rest of us, so they can become the most powerful elite on earth?
+Imagine our brains are web servers powering a +7 billion network, where culture is a web-server language, while human language can only code web content. Question: If a group of coders became aware of this design, would they tell us? Or would they concentrate on coding "cultural illusions" they can sell to the rest of us, so they can choose their destiny, over ours?
 
 **KEYMAKER**
 
