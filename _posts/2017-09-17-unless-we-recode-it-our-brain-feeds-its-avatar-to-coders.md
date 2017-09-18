@@ -6,8 +6,8 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-18T01:33:00.178Z'
-datePublished: '2017-09-18T01:33:01.145Z'
+dateModified: '2017-09-18T01:38:00.345Z'
+datePublished: '2017-09-18T01:38:01.520Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -36,7 +36,7 @@ _**OS**_ Stands for Operating System in computers. Organized Screener in our cas
 
 _**I/O**_ (Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
 
-_**Software **_Contains the commands for computers to do their work. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep as many of us coming back for more
+_**Software **_Contains the code that commands what computers do. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep us coming back for more
 
 ### **PHYSICAL (HARDWARE)**
 
@@ -54,7 +54,7 @@ _[Interest Rates][2]_****The price of uncertainty
 
 _[Net Present Value][3]_****Uncertainty rules the value of future cash flows
 
-_[Information Symmetry][4]_ Insight\*People/Uncertainty= EXP Wealth Growth
+_[Information Symmetry][4]_Insight\*People/Uncertainty= EXP Wealth Growth
 
 ### **SOCIAL (NETWORK)**
 
