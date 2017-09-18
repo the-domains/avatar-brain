@@ -6,8 +6,8 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-18T01:32:11.639Z'
-datePublished: '2017-09-18T01:32:12.956Z'
+dateModified: '2017-09-18T01:33:00.178Z'
+datePublished: '2017-09-18T01:33:01.145Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -52,7 +52,7 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 _[Interest Rates][2]_****The price of uncertainty
 
-_[Net Present Value][3]_**: **Uncertainty rules the value of future cash flows
+_[Net Present Value][3]_****Uncertainty rules the value of future cash flows
 
 _[Information Symmetry][4]_ Insight\*People/Uncertainty= EXP Wealth Growth
 
