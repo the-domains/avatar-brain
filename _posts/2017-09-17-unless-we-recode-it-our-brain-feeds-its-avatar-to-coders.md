@@ -6,8 +6,8 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-18T01:21:15.898Z'
-datePublished: '2017-09-18T01:21:16.039Z'
+dateModified: '2017-09-18T01:27:41.162Z'
+datePublished: '2017-09-18T01:27:42.223Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -50,11 +50,11 @@ _**Exercise**_ Most of us think of it as a way of counteracting the effects of u
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
-_[Interest Rates][2]_**: **The price of uncertainty
+_[Interest Rates][2]_****The price of uncertainty
 
-_[Net Present Value][3]_**: **Uncertaintyrules the value of future cash flows
+_[Net Present Value][3]_**: **Uncertainty rules the value of future cash flows
 
-_[Information Symmetry][4]_Insight\*People/Uncertainty= EXP Wealth Growth
+_[Information Symmetry ][4]_Insight\*People/Uncertainty= EXP Wealth Growth
 
 ### **SOCIAL (NETWORK)**
 
