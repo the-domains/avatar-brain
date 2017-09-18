@@ -6,8 +6,8 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-18T00:39:17.370Z'
-datePublished: '2017-09-18T00:39:17.908Z'
+dateModified: '2017-09-18T00:46:33.060Z'
+datePublished: '2017-09-18T00:46:33.975Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -30,13 +30,13 @@ Imagine our brains are web servers powering a +7 billion network, where culture 
 
 ### **KEYMAKER**
 
-_**CPU**_****Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
+_**CPU**_Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
 
 _**OS**_ Stands for Operating System in computers. Organized Screener in our case, one of the many executive functions of the Prefrontal Cortex
 
 _**I/O**_ (Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
 
-_**Software**_****Contains the commands for computers to do their work. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep as many of us coming back for more
+_**Software **_Contains the commands for computers to do their work. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep as many of us coming back for more
 
 ### **PHYSICAL (HARDWARE)**
 
@@ -52,9 +52,9 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 _[Interest Rates][2]_**: **The price of uncertainty
 
-_[Net Present Value][3]_**: **Uncertainty****rules the value of future cash flows
+_[Net Present Value][3]_**: **Uncertaintyrules the value of future cash flows
 
-_[Information Symmetry][4]_****Insight\*People/Uncertainty= EXP Wealth Growth
+_[Information Symmetry][4]_Insight\*People/Uncertainty= EXP Wealth Growth
 
 ### **SOCIAL (NETWORK)**
 
