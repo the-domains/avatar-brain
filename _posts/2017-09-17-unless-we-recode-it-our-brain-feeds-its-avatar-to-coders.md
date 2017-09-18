@@ -6,8 +6,8 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-17T20:21:01.075Z'
-datePublished: '2017-09-17T20:21:01.621Z'
+dateModified: '2017-09-18T00:10:26.022Z'
+datePublished: '2017-09-18T00:10:27.244Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -30,31 +30,31 @@ Imagine our brains are web servers powering a +7 billion network, where culture 
 
 ### **KEYMAKER**
 
-**CPU **Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
+_**CPU**_****Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
 
-**OS** Stands for Operating System in computers. Organized Screener in our case, one of the many executive functions of the Prefrontal Cortex
+_**OS**_ Stands for Operating System in computers. Organized Screener in our case, one of the many executive functions of the Prefrontal Cortex
 
-**I/O** (Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
+_**I/O**_ (Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
 
-**Software **Contains the commands for computers to do their work. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep as many of us coming back for more
+_**Software**_****Contains the commands for computers to do their work. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep as many of us coming back for more
 
 ### **PHYSICAL (HARDWARE)**
 
 Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
-Nutrition Keeping our brain healthy depends on this factor more than any. Yet, as shown in **[Hack the Matrix][0]**, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
+_**Nutrition**_ Keeping our brain healthy depends on this factor more than any. Yet, as shown in _[Hack the Matrix][0]_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
 
-Exercise Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in **[Huarache Runners][1]** and explained by Chris McDougall (**[Appendix B][0]**), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
+_**Exercise**_ Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _[Huarache Runners][1]_ and explained by Chris McDougall (_[Appendix B][0]_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
 ### **FINANCIAL (POWER)**
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
-**[Interest Rates][2]: **The price of uncertainty
+_[Interest Rates][2]_**: **The price of uncertainty
 
-**[Net Present Value][3]: Uncertainty **rules the value of future cash flows
+_[Net Present Value][3]_**: **Uncertainty****rules the value of future cash flows
 
-**[Information Symmetry][4]: **Insight\*People/Uncertainty= EXP Wealth Growth
+_[Information Symmetry][4]_****Insight\*People/Uncertainty= EXP Wealth Growth
 
 ### **SOCIAL (NETWORK)**
 
@@ -67,6 +67,8 @@ _A lighted skull (bottom right) turns invisible against a background of Times Sq
 #### **LINKS**
 
 [Avatar-Brain][7], [Information Asymmetry][4], [Hack the Matrix ][0], [Sequoian][8]
+
+**TAGS**
 
 Psychology, Health Finance, Equality, Philosophy
 
