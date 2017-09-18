@@ -6,8 +6,8 @@ description: >-
   content. Question: If a group of coders became aware of this design, would
   they tell us? Or would they concentrate on coding “cultural illusions” they
   can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-18T01:41:29.050Z'
-datePublished: '2017-09-18T01:41:30.253Z'
+dateModified: '2017-09-18T01:45:34.397Z'
+datePublished: '2017-09-18T01:45:35.971Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -30,49 +30,31 @@ Imagine our brains are web servers powering a +7 billion network, where culture 
 
 ### **KEYMAKER**
 
-_**CPU**_
+_**CPU: **_Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
 
-Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
+_**OS: **_Stands for Operating System in computers. Organized Screener in our case, one of the many executive functions of the Prefrontal Cortex
 
-_**OS**_
+_**I/O: **_(Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
 
-Stands for Operating System in computers. Organized Screener in our case, one of the many executive functions of the Prefrontal Cortex
-
-_**I/O**_
-
-(Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
-
-_**Software**_
-
-Contains the code that commands what computers do. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep us coming back for more
+_**Software: **_Contains the code that commands what computers do. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep us coming back for more
 
 ### **PHYSICAL (HARDWARE)**
 
 Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
-_**Nutrition**_
+_**Nutrition: **_Keeping our brain healthy depends on this factor more than any. Yet, as shown in _[Hack the Matrix][0]_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
 
-Keeping our brain healthy depends on this factor more than any. Yet, as shown in _[Hack the Matrix][0]_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
-
-_**Exercise**_
-
-Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _[Huarache Runners][1]_ and explained by Chris McDougall (_[Appendix B][0]_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
+_**Exercise: **_Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _[Huarache Runners][1]_ and explained by Chris McDougall (_[Appendix B][0]_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
 ### **FINANCIAL (POWER)**
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
-_[Interest Rates][2]_
+_[Interest Rates][2]_: The price of uncertainty
 
-The price of uncertainty
+_[Net Present Value][3]_: Uncertainty rules the value of future cash flows
 
-_[Net Present Value][3]_
-
-Uncertainty rules the value of future cash flows
-
-_[Information Symmetry][4]_
-
-Insight\*People/Uncertainty= EXP Wealth Growth
+_[Information Symmetry][4]_: Insight\*People/Uncertainty= EXP Wealth Growth
 
 ### **SOCIAL (NETWORK)**
 
