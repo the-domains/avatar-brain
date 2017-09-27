@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-09-27T02:36:42.536Z'
-datePublished: '2017-09-27T02:36:43.403Z'
-title: Brain-Coded Avatars Я Us!
+dateModified: '2017-09-27T02:38:28.422Z'
+datePublished: '2017-09-27T02:38:29.453Z'
+title: BRAIN-CODED AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
 publisher: {}
@@ -18,7 +18,7 @@ url: brain-coded-avatars-ya-us/index.html
 _type: Article
 
 ---
-## **Brain-Coded Avatars Я Us!**
+# BRAIN-CODED AVATARS Я US!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21657f1f-9428-40e3-87dd-23434eb7f653.png)
 
 ## **KEYMAKER**
@@ -41,7 +41,7 @@ Many of the foods and habits said to prolong our health might be harmful or at b
 
 **Nutrition: **Keeping our brain healthy depends on this factor more than any. Yet, as shown in _[Hack the Matrix][0]_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
 
-**Exercise:**_****_Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _[Huarache Runners][1]_ and explained by Chris McDougall (_[Appendix B][0]_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
+**Exercise:**Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _[Huarache Runners][1]_ and explained by Chris McDougall (_[Appendix B][0]_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
 ### **FINANCIAL (POWER)**
 
