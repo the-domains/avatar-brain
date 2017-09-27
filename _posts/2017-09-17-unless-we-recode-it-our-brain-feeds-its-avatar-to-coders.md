@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-09-27T02:35:03.412Z'
-datePublished: '2017-09-27T02:35:04.175Z'
+dateModified: '2017-09-27T02:36:29.392Z'
+datePublished: '2017-09-27T02:36:29.960Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -39,9 +39,9 @@ Imagine our brains are web servers powering a +7 billion network, where culture 
 
 Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
-_**Nutrition: **_Keeping our brain healthy depends on this factor more than any. Yet, as shown in _[Hack the Matrix][0]_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
+**Nutrition: **Keeping our brain healthy depends on this factor more than any. Yet, as shown in _[Hack the Matrix][0]_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
 
-_**Exercise: **_Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _[Huarache Runners][1]_ and explained by Chris McDougall (_[Appendix B][0]_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
+**Exercise:**_****_Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _[Huarache Runners][1]_ and explained by Chris McDougall (_[Appendix B][0]_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
 ### **FINANCIAL (POWER)**
 
