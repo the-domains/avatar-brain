@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-09-27T02:33:29.616Z'
-datePublished: '2017-09-27T02:33:30.074Z'
+dateModified: '2017-09-27T02:35:03.412Z'
+datePublished: '2017-09-27T02:35:04.175Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -29,7 +29,7 @@ _type: Article
 
 **I/O: **(Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
 
-**Software: **Contains the code that commands what computers do. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep us coming back for more
+**CODE: **Contains the commands that computers follow. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep us coming back for more
 
 ### **CEREBRAL (SOFTWARE)**
 
