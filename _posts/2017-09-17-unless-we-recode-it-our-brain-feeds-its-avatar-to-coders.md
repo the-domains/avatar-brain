@@ -1,8 +1,13 @@
 ---
 inFeed: true
-description: CEREBRAL (SOFTWARE)
-dateModified: '2017-09-27T02:24:01.952Z'
-datePublished: '2017-09-27T02:24:02.725Z'
+description: >-
+  Imagine our brains are web servers powering a +7 billion network, where
+  culture is a web-server language, while human language can only code web
+  content. Question: If a group of coders became aware of this design, would
+  they tell us? Or would they concentrate on coding “cultural illusions” they
+  can sell to the rest of us, so they can choose their destiny, over ours?
+dateModified: '2017-09-27T02:26:16.272Z'
+datePublished: '2017-09-27T02:26:17.255Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -19,7 +24,7 @@ _type: Article
 ## **Brain-Coded Avatars Я Us!**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21657f1f-9428-40e3-87dd-23434eb7f653.png)
 
-**CEREBRAL (SOFTWARE)**
+### **CEREBRAL (SOFTWARE)**
 
 Imagine our brains are web servers powering a +7 billion network, where culture is a web-server language, while human language can only code web content. Question: If a group of coders became aware of this design, would they tell us? Or would they concentrate on coding "cultural illusions" they can sell to the rest of us, so they can choose their destiny, over ours?
 
