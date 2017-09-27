@@ -1,13 +1,10 @@
 ---
 inFeed: true
 description: >-
-  Imagine our brains are web servers powering a +7 billion network, where
-  culture is a web-server language, while human language can only code web
-  content. Question: If a group of coders became aware of this design, would
-  they tell us? Or would they concentrate on coding “cultural illusions” they
-  can sell to the rest of us, so they can choose their destiny, over ours?
-dateModified: '2017-09-27T02:26:16.272Z'
-datePublished: '2017-09-27T02:26:17.255Z'
+  CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
+  our Limbic System: Completely Primitive Unconscious
+dateModified: '2017-09-27T02:27:41.237Z'
+datePublished: '2017-09-27T02:27:41.729Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -24,10 +21,6 @@ _type: Article
 ## **Brain-Coded Avatars Я Us!**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21657f1f-9428-40e3-87dd-23434eb7f653.png)
 
-### **CEREBRAL (SOFTWARE)**
-
-Imagine our brains are web servers powering a +7 billion network, where culture is a web-server language, while human language can only code web content. Question: If a group of coders became aware of this design, would they tell us? Or would they concentrate on coding "cultural illusions" they can sell to the rest of us, so they can choose their destiny, over ours?
-
 ### **KEYMAKER**
 
 _**CPU: **_Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
@@ -37,6 +30,10 @@ _**OS: **_Stands for Operating System in computers. Organized Screener in our ca
 _**I/O: **_(Input/Output) monitor, keyboard, mouse, etc. help CPUs interact, as our sensory receptors (eyes, ears, nose, taste buds, skin, etc.) help us
 
 _**Software: **_Contains the code that commands what computers do. In our case, these commands are fed from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine to keep us coming back for more
+
+### **CEREBRAL (SOFTWARE)**
+
+Imagine our brains are web servers powering a +7 billion network, where culture is a web-server language, while human language can only code web content. Question: If a group of coders became aware of this design, would they tell us? Or would they concentrate on coding "cultural illusions" they can sell to the rest of us, so they can choose their destiny, over ours?
 
 ### **PHYSICAL (HARDWARE)**
 
