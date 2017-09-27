@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-09-27T02:27:41.237Z'
-datePublished: '2017-09-27T02:27:41.729Z'
+dateModified: '2017-09-27T02:30:09.989Z'
+datePublished: '2017-09-27T02:30:10.506Z'
 title: Brain-Coded Avatars Я Us!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -23,7 +23,7 @@ _type: Article
 
 ### **KEYMAKER**
 
-_**CPU: **_Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
+**CPU:** Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
 
 _**OS: **_Stands for Operating System in computers. Organized Screener in our case, one of the many executive functions of the Prefrontal Cortex
 
