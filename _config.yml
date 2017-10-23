@@ -19,7 +19,7 @@ author:
   email: 'Twitter: @olairet'
   name: Oswaldo Lairet
   url: 'https://www.facebook.com/InformationSymmetry'
-name: AvatarBrain
+name: Avatar Brain
 url: 'http://avatarbrain.com'
 navigation:
   - name: Hack The Matrix
@@ -27,9 +27,6 @@ navigation:
     type: external
   - name: Huarache Runners
     url: 'https://www.strava.com/clubs/huarache-runners'
-    type: external
-  - name: Open Source Capitalism
-    url: 'http://sequoian.com/2017/08/wp-contentuploads201708predator-prey2-pdf/'
     type: external
   - name: Information Asymmetry
     url: 'http://sequoian.com/wp-content/uploads/2017/08/Information_Symmetry.pdf'
