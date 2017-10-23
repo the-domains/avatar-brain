@@ -87,5 +87,5 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  As servers in a network, our brains interpret identical perceptual experiences
-  in myriad different ways, each spawning alternative ends
+  As network servers, our brains interpret identical perceptual experiences in
+  myriad different ways, each spawning alternative ends
