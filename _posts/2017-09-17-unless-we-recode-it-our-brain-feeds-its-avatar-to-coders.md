@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-09-27T09:17:01.161Z'
-datePublished: '2017-09-27T09:17:01.921Z'
+dateModified: '2017-10-23T20:56:51.446Z'
+datePublished: '2017-10-23T20:56:52.337Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -72,7 +72,7 @@ Psychology, Health Finance, Equality, Philosophy
 [0]: http://www.infoasy.com/
 [1]: https://www.strava.com/clubs/huarache-runners
 [2]: http://sequoian.com/2015/09/wp-contentuploads201610the-discount-rate-pyramid-scheme-2-0-pdf/
-[3]: http://sequoian.com/2017/08/wp-contentuploads201708predator-prey2-pdf/
+[3]: http://sequoian.com/2017/08/wp-contentuploads201710predator-prey-economics-reloaded-pdf/
 [4]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
 [5]: https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk
 [6]: https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU
