@@ -31,6 +31,10 @@ navigation:
   - name: Information Asymmetry
     url: 'http://sequoian.com/wp-content/uploads/2017/08/Information_Symmetry.pdf'
     type: external
+  - name: Predator-Prey Economics
+    url: >-
+      http://sequoian.com/2017/08/wp-contentuploads201710predator-prey-economics-reloaded-pdf/
+    type: external
 title: The beholder within
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -41,20 +45,20 @@ content:
       width="600" height="780"></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: 'http://sequoian.com/wp-content/uploads/2017/08/Predator-Prey2.pdf'
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'http://sequoian.com'
         name: Sequoian
         favicon: null
         domain: sequoian.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'http://sequoian.com/wp-content/uploads/2017/08/Predator-Prey2.pdf'
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -66,19 +70,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/21842b23-88c4-485a-b3a2-6b2f18d79065.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
