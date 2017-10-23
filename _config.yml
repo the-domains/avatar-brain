@@ -29,7 +29,8 @@ navigation:
     url: 'https://www.strava.com/clubs/huarache-runners'
     type: external
   - name: Information Asymmetry
-    url: 'http://sequoian.com/wp-content/uploads/2017/08/Information_Symmetry.pdf'
+    url: >-
+      http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
     type: external
   - name: Predator-Prey Economics
     url: >-
