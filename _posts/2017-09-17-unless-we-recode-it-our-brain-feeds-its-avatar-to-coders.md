@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-10-29T09:49:04.342Z'
-datePublished: '2017-10-29T09:49:04.932Z'
+dateModified: '2017-10-29T11:37:52.992Z'
+datePublished: '2017-10-29T11:37:53.665Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -33,7 +33,7 @@ _type: Article
 
 ### **CEREBRAL (SOFTWARE)**
 
-Imagine our brains as servers powering a +7 billion network, where culture is a server-code and language can only code content. Question: If a group of coders became aware of this design, would they tell us? Or would they focus on coding "cultural illusions" to steer the rest of us in favor of their destiny?
+Imagine our brains as servers powering a +7 billion network, where culture is a server-code and language can only code content. Question: If a group of coders became aware of this design, would they tell us? Or would they focus on coding "cultural illusions" to steer the rest of us in favor of their own destiny?
 
 ### **PHYSICAL (HARDWARE)**
 
