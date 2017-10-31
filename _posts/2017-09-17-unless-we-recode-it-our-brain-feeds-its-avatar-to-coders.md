@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-10-31T12:53:03.722Z'
-datePublished: '2017-10-31T12:53:04.297Z'
+dateModified: '2017-10-31T12:53:25.922Z'
+datePublished: '2017-10-31T12:53:26.677Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -59,7 +59,7 @@ Social interaction follows rules of engagement established by our animal brain's
 
 ### CREDITS
 
-_Against a background of Times Square lights, a_ lighted skull (b. right) turns invisible. _Combined__from **["Times Square"][5]**_ by E. Bresciani _and **["Acrylic Brain"][6]**_ by J. Orrico.
+_Against a background of Times Square lights, a_ lighted skull (b. right) turns invisible. _Combined__from **["Times Square"][5]**_ by E. Bresciani, _and **["Acrylic Brain"][6]**_ by J. Orrico.
 
 ### LINKS
 
