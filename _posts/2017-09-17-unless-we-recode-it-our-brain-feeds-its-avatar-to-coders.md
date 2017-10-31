@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-10-31T15:18:43.385Z'
-datePublished: '2017-10-31T15:18:43.999Z'
+dateModified: '2017-10-31T15:20:11.753Z'
+datePublished: '2017-10-31T15:20:12.546Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -47,9 +47,11 @@ Many of the foods and habits said to prolong our health might be harmful or at b
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
-* [INFORMATION SYMMETRY][2]: _INSIGHT\*PEOPLE/UNCERTAINTY= EXP WEALTH GROWTH_
-* [INTEREST RATES][3]: _THE PRICE OF UNCERTAINTY_
-* [NET PRESENT VALUE][4]: _PREDATOR-PREY DYNAMICS RULE THE VALUE OF FREE CASH FLOWS_
+* [INFORMATION SYMMETRY][2]: INSIGHT\*PEOPLE/UNCERTAINTY= EXP WEALTH GROWTH
+
+* [INTEREST RATES][3]: THE PRICE OF UNCERTAINTY
+
+* [NET PRESENT VALUE][4]: PREDATOR-PREY DYNAMICS RULE THE VALUE OF FREE CASH FLOWS
 
 ### **SOCIAL (NETWORK)**
 
