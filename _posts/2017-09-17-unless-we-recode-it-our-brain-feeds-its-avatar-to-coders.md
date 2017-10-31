@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-10-31T01:48:12.533Z'
-datePublished: '2017-10-31T01:48:13.201Z'
+dateModified: '2017-10-31T12:46:13.353Z'
+datePublished: '2017-10-31T12:46:14.332Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -39,11 +39,11 @@ Imagine our brains as servers powering a +7 billion network, where culture is a 
 
 Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
-**Nutrition: **Keeping our brain healthy depends on this factor more than any. Yet, as shown in _[Hack the Matrix][0]_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
+**Nutrition: **Keeping our brain healthy depends on this factor more than any. Yet, as shown in _**[Hack the Matrix][0]**_, it is difficult to change our fate in this area, unless we realize our senses were bred since young, to crave foods bearing no nutritional value and high odds of triggering irreversible cell-damage
 
-**Exercise:**Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _[Huarache Runners][1]_ and explained by Chris McDougall (_[Appendix B][0]_), the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
+**Exercise:**Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _**[Huarache Runners][1]**_ and explained by Chris McDougall (_**[Appendix B][0]**_**)**, the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
-### **FINANCIAL (POWER)**
+### **FINANCIAL (POWER) **
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
@@ -57,18 +57,18 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
 
-**CREDITS**
+### CREDITS 
 
 _A lighted skull (bottom right) turns invisible against a background of Times Square lights. Combined from the works of:_
 
-* _"Times Square" E. Bresciani ([https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk][5])_
-* _"Acrylic Brain" by J. Orrico ([https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU][6])_
+* _**["Times Square" E. Bresciani][5]**_
+* _**["Acrylic Brain" by J. Orrico][6]**_
 
-#### **LINKS**
+### LINKS 
 
-[Avatar-Brain][7], [Information Asymmetry][2], [Hack the Matrix ][0], [Sequoian][8]
+_**[Avatar-Brain][7], [Information Asymmetry][2], [Hack the Matrix ][0], [Sequoian][8]**_
 
-**TAGS**
+### TAGS
 
 Psychology, Health Finance, Equality, Philosophy
 
