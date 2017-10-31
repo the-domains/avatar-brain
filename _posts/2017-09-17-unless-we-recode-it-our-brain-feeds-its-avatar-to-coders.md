@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-10-31T15:32:29.833Z'
-datePublished: '2017-10-31T15:32:30.495Z'
+dateModified: '2017-10-31T15:34:54.412Z'
+datePublished: '2017-10-31T15:34:55.123Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -21,7 +21,7 @@ _type: Article
 # AVATARS Я US!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21657f1f-9428-40e3-87dd-23434eb7f653.png)
 
-### **――――――――――――KEYMAKER**
+### **――――――――――――KEYMAKER――――――――――――――**
 
 **CPU:** Stands for Central Processing Unit, yet regarding our brain, it refers to our Limbic System: Completely Primitive Unconscious
 
@@ -31,11 +31,11 @@ _type: Article
 
 **CODE: **Contains the commands that computers follow. We get fed these from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine in our brain to keep us coming back for more
 
-### **CEREBRAL (SOFTWARE)**
+### **――――――――――――CEREBRAL (SOFTWARE)**
 
 Imagine our brains as servers powering a +7 billion network, where culture is a server-code and language can only code content. Question: If a group of coders became aware of this design, would they tell us? Or would they focus on coding "cultural illusions" to steer the rest of us in favor of their own destiny?
 
-### **PHYSICAL (HARDWARE)**
+### **――――――――――――PHYSICAL (HARDWARE)**
 
 Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
@@ -43,7 +43,7 @@ Many of the foods and habits said to prolong our health might be harmful or at b
 
 **Exercise: **Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in **[Huarache Runners][1]** and explained by Chris McDougall (**[Appendix B][0])**, the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
-### **FINANCIAL (POWER)**
+### **――――――――――――FINANCIAL (POWER)**
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
@@ -53,7 +53,7 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 * [NET PRESENT VALUE][4]: PREDATOR-PREY DYNAMICS RULE THE VALUE OF FREE CASH FLOWS
 
-### **SOCIAL (NETWORK)**
+### **――――――――――――SOCIAL (NETWORK)**
 
 Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
 
