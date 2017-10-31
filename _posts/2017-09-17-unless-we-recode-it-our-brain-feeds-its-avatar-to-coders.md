@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-10-31T12:51:55.551Z'
-datePublished: '2017-10-31T12:51:55.958Z'
+dateModified: '2017-10-31T12:53:03.722Z'
+datePublished: '2017-10-31T12:53:04.297Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -43,7 +43,7 @@ Many of the foods and habits said to prolong our health might be harmful or at b
 
 **Exercise:**Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in _**[Huarache Runners][1]**_ and explained by Chris McDougall (_**[Appendix B][0]**_**)**, the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
-### **FINANCIAL (POWER) **
+### **FINANCIAL (POWER)**
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
@@ -57,11 +57,11 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
 
-### CREDITS 
+### CREDITS
 
-_Against a background of Times Square lights, a_ lighted skull (b. right) turns invisible. _Combined__from **["Times Square"][5]**_by E. Bresciani _and **["Acrylic Brain"][6]**_ by J. Orrico.
+_Against a background of Times Square lights, a_ lighted skull (b. right) turns invisible. _Combined__from **["Times Square"][5]**_ by E. Bresciani _and **["Acrylic Brain"][6]**_ by J. Orrico.
 
-### LINKS 
+### LINKS
 
 _**[Avatar-Brain][7], [Information Asymmetry][2], [Hack the Matrix ][0], [Sequoian][8]**_
 
