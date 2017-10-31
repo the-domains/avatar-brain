@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-10-29T11:37:52.992Z'
-datePublished: '2017-10-29T11:37:53.665Z'
+dateModified: '2017-10-31T01:46:38.533Z'
+datePublished: '2017-10-31T01:46:39.526Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -47,11 +47,14 @@ Many of the foods and habits said to prolong our health might be harmful or at b
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
-_[Interest Rates][2]_: The price of uncertainty
+_[INFORMATION SYMMETRY][2]_:
+Insight\*People/Uncertainty= EXP Wealth Growth
 
-_[Net Present Value][3]_: Uncertainty rules the value of future cash flows
+_[INTEREST RATES][3]_:
+The price of uncertainty
 
-_[Information Symmetry][4]_: Insight\*People/Uncertainty= EXP Wealth Growth
+_[NET PRESENT VALUE][4]_:
+Uncertainty rules the value of future cash flows
 
 ### **SOCIAL (NETWORK)**
 
@@ -66,7 +69,7 @@ _A lighted skull (bottom right) turns invisible against a background of Times Sq
 
 #### **LINKS**
 
-[Avatar-Brain][7], [Information Asymmetry][4], [Hack the Matrix ][0], [Sequoian][8]
+[Avatar-Brain][7], [Information Asymmetry][2], [Hack the Matrix ][0], [Sequoian][8]
 
 **TAGS**
 
@@ -74,9 +77,9 @@ Psychology, Health Finance, Equality, Philosophy
 
 [0]: http://www.infoasy.com/
 [1]: https://www.strava.com/clubs/huarache-runners
-[2]: http://sequoian.com/2015/09/wp-contentuploads201610the-discount-rate-pyramid-scheme-2-0-pdf/
-[3]: http://sequoian.com/2017/08/wp-contentuploads201710predator-prey-economics-reloaded-pdf/
-[4]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
+[2]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
+[3]: http://sequoian.com/2015/09/wp-contentuploads201610the-discount-rate-pyramid-scheme-2-0-pdf/
+[4]: http://sequoian.com/2017/08/wp-contentuploads201710predator-prey-economics-reloaded-pdf/
 [5]: https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk
 [6]: https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU
 [7]: http://avatarbrain.com/
