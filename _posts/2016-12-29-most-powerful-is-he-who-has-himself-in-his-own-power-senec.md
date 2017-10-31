@@ -6,11 +6,12 @@ description: >-
   hundreds of miles without rest and chase down anything from a deer to an
   Olympic marathoner while enjoying every mile of it. Their superhuman talent is
   matched by uncanny health and serenity, leaving the Tarahumara immune to the
-  diseases and strife that plague modern existence"                           
+  diseases and strife that plague modern
+  existence"                                                                                                                                                                                                                                                                                
   ―Christopher McDougall
 author: []
-datePublished: '2017-10-31T01:41:20.756Z'
-dateModified: '2017-10-31T01:41:20.142Z'
+datePublished: '2017-10-31T01:42:52.296Z'
+dateModified: '2017-10-31T01:42:51.250Z'
 title: Most powerful is he who has himself in his own power ―Seneca
 publisher: {}
 via: {}
@@ -25,4 +26,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-!["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence"                            ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1913a5b-d596-48cf-821a-70b242b21c78.png)
+!["Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries, they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence"                                                                                                                                                                                                                                                                                 ―Christopher McDougall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1913a5b-d596-48cf-821a-70b242b21c78.png)
