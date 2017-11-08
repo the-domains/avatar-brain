@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-10-31T22:28:32.522Z'
-datePublished: '2017-10-31T22:28:33.028Z'
+dateModified: '2017-11-08T05:27:05.954Z'
+datePublished: '2017-11-08T05:27:06.543Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -63,14 +63,15 @@ _Against a background of Times Square lights, a_ lighted skull (low right) turns
 
 ### LINKS
 
-_**[Avatar-Brain][7], [Information Asymmetry][2], [Hack the Matrix ][0], [Sequoian][8]**_
+_**[Avatar-Brain][7], [Information Asymmetry][8], [Hack the Matrix ][0], [Sequoian][9]**_
 
 [0]: http://www.infoasy.com/
 [1]: https://www.strava.com/clubs/huarache-runners
-[2]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
+[2]: https://sequoian.com/2014/12/wp-contentuploads201711information-symmetry-pdf-2/
 [3]: http://sequoian.com/2015/09/wp-contentuploads201610the-discount-rate-pyramid-scheme-2-0-pdf/
 [4]: http://sequoian.com/2017/08/wp-contentuploads201710predator-prey-economics-reloaded-pdf/
 [5]: https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk
 [6]: https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU
 [7]: http://avatarbrain.com/
-[8]: http://sequoian.com/
+[8]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
+[9]: http://sequoian.com/
