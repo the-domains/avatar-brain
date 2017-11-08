@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2017-11-08T05:27:05.954Z'
-datePublished: '2017-11-08T05:27:06.543Z'
+dateModified: '2017-11-08T21:06:40.403Z'
+datePublished: '2017-11-08T21:06:40.763Z'
 title: AVATARS Я US!
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
