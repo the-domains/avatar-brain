@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: We can’t all be rich.
-dateModified: '2018-01-06T13:41:12.806Z'
-datePublished: '2018-01-06T13:41:13.925Z'
+description: ''
+dateModified: '2018-01-06T18:29:26.871Z'
+datePublished: '2018-01-06T18:29:27.378Z'
 title: SOCIAL (NETWORK) HEALTH
 author: []
 publisher: {}
@@ -19,19 +19,13 @@ _type: Article
 
 # SOCIAL (NETWORK) HEALTH
 
-**We can't all be rich.**
+* **We can't all be rich.**
+* **We can't all be famous.**
+* **[We can't all be Someone Who Matters to the World][0]**
+* **OR CAN WE?**
 
-**We can't all be famous.**
-
-**[We can't all be Someone Who Matters to the World][0].**
-
-## _**OR CAN WE?**_
-
-# [Pecking Order][1]
-
-**Author: W. Ben Hunt, Ph.D.**
-
-**November 29, 2017**
+## **[Pecking Order ][1]
+Author: W. Ben Hunt, Ph.D. November 29, 2017 **
 
 [0]: http://epsilontheory.com/the-two-churchills/
-[1]: http://epsilontheory.com/pecking-order/
+[1]: http://epsilontheory.com/pecking-order "Network Hierarchy"
