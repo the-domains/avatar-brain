@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-07T02:41:08.173Z'
-datePublished: '2018-01-07T02:41:09.327Z'
+dateModified: '2018-01-07T11:12:08.811Z'
+datePublished: '2018-01-07T11:12:09.214Z'
 title: SOCIAL (NETWORK) HEALTH
 author: []
 publisher: {}
@@ -19,10 +19,10 @@ _type: Article
 
 # **[SOCIAL (NETWORK) HEALTH][0]**
 
-* **We can't all be rich.**
-* **We can't all be famous.**
-* **[We can't all be Someone Who Matters to the World][1]**
-* **OR CAN WE?**
+* We can't all be rich.
+* We can't all be famous.
+* We can't all be Someone Who Matters to the World
+* **[OR CAN WE?][1]**
 
 ## **Author: [W. Ben Hunt, Ph.D.][2] November 29, 2017**
 
