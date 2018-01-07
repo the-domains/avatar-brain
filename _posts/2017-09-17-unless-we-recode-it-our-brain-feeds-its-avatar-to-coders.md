@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2018-01-07T01:48:21.899Z'
-datePublished: '2018-01-07T01:48:22.738Z'
+dateModified: '2018-01-07T02:33:42.829Z'
+datePublished: '2018-01-07T02:33:43.571Z'
 title: AVATARS Я US
 author:
   - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
@@ -30,7 +30,7 @@ _type: Article
 
 **CODE: **Contains the commands that computers follow. We get fed these from infancy, via sounds, colors, flavors, aromas, etc. to set what stimuli spur enough dopamine in our brain to keep us coming back for more
 
-**FOUR STATES OF SYSTEM HEALTH:** Cerebral, Physical, Financial and Social
+**FOUR STATES OF HEALTH:** Cerebral, Physical, Financial and Social
 
 ### **CEREBRAL ――――――――\> PROGRAMMING**
 
@@ -54,7 +54,7 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 * [NET PRESENT VALUE][4]: PREDATOR-PREY DYNAMICS RULE THE VALUE OF ALL INCOME
 
-### **SOCIAL ―――――――――---\> NETWORK**
+### **SOCIAL ―――――――――\> NETWORK**
 
 Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
 
