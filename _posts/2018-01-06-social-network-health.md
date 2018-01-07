@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-07T01:25:48.947Z'
-datePublished: '2018-01-07T01:25:49.608Z'
+dateModified: '2018-01-07T01:30:38.035Z'
+datePublished: '2018-01-07T01:30:38.665Z'
 title: SOCIAL (NETWORK) HEALTH
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Article
 * **[We can't all be Someone Who Matters to the World][1]**
 * **OR CAN WE?**
 
-## **Author: W. Ben Hunt, Ph.D. November 29, 2017 **
+## **Author: W. Ben Hunt, Ph.D. November 29, 2017**
 
-[0]: http://epsilontheory.com/pecking-order
+[0]: http://epsilontheory.com/pecking-order/
 [1]: http://epsilontheory.com/the-two-churchills/
