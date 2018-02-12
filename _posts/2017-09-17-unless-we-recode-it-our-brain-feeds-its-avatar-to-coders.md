@@ -3,12 +3,15 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2018-01-07T02:33:42.829Z'
-datePublished: '2018-01-07T02:33:43.571Z'
+dateModified: '2018-02-12T16:59:08.569Z'
+datePublished: '2018-02-12T16:59:10.778Z'
 title: AVATARS Я US
 author:
-  - url: 'https://unsplash.com/photos/9xAvbCVi-Nk'
-publisher: {}
+  - url: 'https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU'
+    name: J. Orrico.
+publisher:
+  url: 'https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk'
+  name: E. Bresciani
 via: {}
 sourcePath: _posts/2017-09-17-unless-we-recode-it-our-brain-feeds-its-avatar-to-coders.md
 hasPage: true
@@ -18,6 +21,8 @@ url: brain-coded-avatars-ya-us/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a856913b-9ef4-4204-aef0-de085626a130.png)
+
 # AVATARS Я US
 
 ## KEYMAKER
@@ -60,7 +65,7 @@ Social interaction follows rules of engagement established by our animal brain's
 
 ### CREDITS
 
-_Against a background of Times Square lights, a_ lighted skull (low right) turns invisible. _Combined from **["Times Square"][5]**_ by E. Bresciani _and **["Acrylic Brain"][6]**_ by J. Orrico.
+"Acrylic Brain in Times Square." _Against a background of Times Square lights, a_ lighted skull (low right) turns invisible. _Combined from **["Times Square"][5]**_ by E. Bresciani _and **["Acrylic Brain"][6]**_ by J. Orrico.
 
 ### LINKS
 
