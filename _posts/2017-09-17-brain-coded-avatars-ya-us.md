@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PHYSICAL ――――――――> HARDWARE
-dateModified: '2018-02-12T20:07:25.329Z'
-datePublished: '2018-02-12T20:08:44.256Z'
+dateModified: '2018-02-12T20:09:19.988Z'
+datePublished: '2018-02-12T20:09:20.301Z'
 title: ''
 author: []
 publisher: {}
