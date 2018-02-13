@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: CEREBRAL > PROGRAMMING
-dateModified: '2018-02-13T19:38:38.887Z'
-datePublished: '2018-02-13T19:38:39.076Z'
+dateModified: '2018-02-13T19:40:02.027Z'
+datePublished: '2018-02-13T19:40:02.161Z'
 title: ''
 author: []
 publisher: {}
