@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: We can’t all be rich.
-dateModified: '2018-02-13T18:57:15.074Z'
-datePublished: '2018-02-13T18:57:15.563Z'
+description: ''
+dateModified: '2018-02-13T19:17:53.896Z'
+datePublished: '2018-02-13T19:17:54.554Z'
 title: SOCIAL > NETWORK
 author: []
 publisher: {}
@@ -16,15 +16,14 @@ _type: Article
 
 ---
 # **SOCIAL \> NETWORK**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a8e9630-1ede-47ca-be04-147dfc7baf04.jpg)
 
-We can't all be rich.
-
+* We can't all be rich.
 * We can't all be famous.
 * We can't all be Someone Who Matters to the World
 * **[OR CAN WE?][0]**
 
-## **Author: [W. Ben Hunt, Ph.D.][1] November 29, 2017**
+## **Author: [W. Ben Hunt, Ph.D.][1]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a8e9630-1ede-47ca-be04-147dfc7baf04.jpg)
 
 [0]: http://epsilontheory.com/the-two-churchills/
 [1]: http://epsilontheory.com/search-posts/?author=bhunt
