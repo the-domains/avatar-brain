@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-12T20:09:54.055Z'
-datePublished: '2018-02-12T20:09:54.335Z'
-title: SOCIAL (NETWORK) HEALTH
+dateModified: '2018-02-13T15:31:50.095Z'
+datePublished: '2018-02-13T15:31:50.289Z'
+title: SOCIAL ――――> NETWORK
 author: []
 publisher: {}
 via: {}
@@ -17,15 +17,14 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a8e9630-1ede-47ca-be04-147dfc7baf04.jpg)
 
-# **[SOCIAL (NETWORK) HEALTH][0]**
+# **SOCIAL ――――\> NETWORK**
 
 * We can't all be rich.
 * We can't all be famous.
 * We can't all be Someone Who Matters to the World
-* **[OR CAN WE?][1]**
+* **[OR CAN WE?][0]**
 
-## **Author: [W. Ben Hunt, Ph.D.][2] November 29, 2017**
+## **Author: [W. Ben Hunt, Ph.D.][1] November 29, 2017**
 
-[0]: http://epsilontheory.com/
-[1]: http://epsilontheory.com/the-two-churchills/
-[2]: http://epsilontheory.com/search-posts/?author=bhunt
+[0]: http://epsilontheory.com/the-two-churchills/
+[1]: http://epsilontheory.com/search-posts/?author=bhunt
