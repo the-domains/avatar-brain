@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Optimal Nutrition by Serge Faguet
-dateModified: '2018-02-13T19:22:58.133Z'
-datePublished: '2018-02-13T19:22:58.244Z'
+dateModified: '2018-02-13T19:32:58.440Z'
+datePublished: '2018-02-13T19:32:58.584Z'
 title: PHYSICAL > HARDWARE
 author: []
 publisher: {}
@@ -14,11 +14,11 @@ _type: Blurb
 
 ---
 # **PHYSICAL \> HARDWARE**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8862e15c-6e29-447f-b6a0-d627b2fc7b7a.jpg)
 
 **[Optimal Nutrition][0]** by Serge Faguet
 
 Do not eat sugar in any form. **Sugar is poison**. This means no candy, fruit juices, bread, pasta, honey etc. There are many disagreements about nutrition science. That sugar is extremely bad for you is not one of them.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adc43750-6c3b-49ee-bc23-5a9ccce9202e.jpg)
 
 * Do not eat processed foods. Eat natural food instead.
 * Do not eat cheap industrially-farmed animal products.
