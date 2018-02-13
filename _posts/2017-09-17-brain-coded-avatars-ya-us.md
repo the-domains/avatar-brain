@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: PHYSICAL ――――――――> HARDWARE
-dateModified: '2018-02-12T20:09:19.988Z'
-datePublished: '2018-02-12T20:09:20.301Z'
-title: ''
+description: Optimal Nutrition by Serge Faguet
+dateModified: '2018-02-13T15:31:50.095Z'
+datePublished: '2018-02-13T15:31:50.277Z'
+title: PHYSICAL ―――> HARDWARE
 author: []
 publisher: {}
 via: {}
@@ -13,7 +13,9 @@ datePublishedOriginal: '2018-02-12T20:08:44.256Z'
 _type: Blurb
 
 ---
-PHYSICAL ――――――――\> HARDWARE
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8862e15c-6e29-447f-b6a0-d627b2fc7b7a.jpg)
+
+# **PHYSICAL ―――\> HARDWARE**
 
 **[Optimal Nutrition][0]** by Serge Faguet
 
