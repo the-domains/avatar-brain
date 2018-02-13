@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-13T15:31:50.095Z'
-datePublished: '2018-02-13T15:31:50.289Z'
-title: SOCIAL ――――> NETWORK
+dateModified: '2018-02-13T15:35:52.363Z'
+datePublished: '2018-02-13T15:35:52.612Z'
+title: SOCIAL ―> NETWORK
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a8e9630-1ede-47ca-be04-147dfc7baf04.jpg)
 
-# **SOCIAL ――――\> NETWORK**
+# **SOCIAL ―\> NETWORK**
 
 * We can't all be rich.
 * We can't all be famous.
