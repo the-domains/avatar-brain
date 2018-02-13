@@ -19,8 +19,8 @@ description: >-
   infinite information bounty gives you a degree of control over your destiny,
   no previous generation ever had... Or, it can turn you into a slave to the
   myriad addictive virtual worlds,whose food is your existence.Love,Dad
-dateModified: '2018-02-13T18:56:29.834Z'
-datePublished: '2018-02-13T18:56:31.720Z'
+dateModified: '2018-02-13T18:57:15.074Z'
+datePublished: '2018-02-13T18:57:15.572Z'
 title: INFORMATION ASYMMETRY
 author: []
 publisher: {}
