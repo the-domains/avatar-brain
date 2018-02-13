@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: >-
-  Queridos Hijos,Below, I review four precepts collected over a decade seeking
-  answers to the "Simulation" dilemma presented by Matrix (1999) and
+  INFORMATION ASYMMETRYBelow, I review four precepts collected over a decade
+  seeking answers to the "Simulation" dilemma presented by Matrix (1999) and
   accidentally... Finding (stumbling upon) them, in the least expected places:
   Appendix B.For instance, upon learning thatsensory adaptationmakes our
   perception (sight, hearing, taste, smell, and touch) highly prone to
@@ -19,9 +19,9 @@ description: >-
   infinite information bounty gives you a degree of control over your destiny,
   no previous generation ever had... Or, it can turn you into a slave to the
   myriad addictive virtual worlds,whose food is your existence.Love,Dad
-dateModified: '2018-02-13T18:57:15.074Z'
-datePublished: '2018-02-13T18:57:15.572Z'
-title: INFORMATION ASYMMETRY
+dateModified: '2018-02-13T19:05:07.701Z'
+datePublished: '2018-02-13T19:05:08.041Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -33,7 +33,7 @@ url: information-asymmetry/index.html
 _type: Article
 
 ---
-**Queridos Hijos**,  
+**INFORMATION ASYMMETRY**  
 Below, I review four precepts collected over a decade seeking answers to the "Simulation" dilemma presented by Matrix (1999) and accidentally... Finding (stumbling upon) them, in the least expected places: **Appendix B**.  
 For instance, upon learning that**[sensory adaptation][0]**makes our perception (sight, hearing, taste, smell, and touch) highly prone to manipulation, I keep aiming to detoxify my sense of taste, knowing it embeds the **[food choices][1]** and ultimately the **[lifestyle diseases][2]**, we think our own, unaware that our Matrix-like "Sensory Masters" ingrain them in our brain since infancy.  
 In 2009, after years of research, but mostly by trial & error, I found Fuhrman's **[Health = Nutrients Per Calorie][3]**approach and the simplest way to execute it: **[G-BOMBS][4]**. Since then, I discovered five other pioneering MDs (**Appendix A**) whose work confirms or precedes Fuhrman's.   
