@@ -10,8 +10,8 @@ description: >-
   existence"                                                                                                                                                                                                                                                                                
   ―Christopher McDougall
 author: []
-datePublished: '2018-02-12T20:09:20.315Z'
-dateModified: '2018-02-12T20:09:19.988Z'
+datePublished: '2018-02-13T18:44:41.839Z'
+dateModified: '2018-02-13T18:44:41.115Z'
 title: Most powerful is he who has himself in his own power ―Seneca
 publisher: {}
 via: {}
