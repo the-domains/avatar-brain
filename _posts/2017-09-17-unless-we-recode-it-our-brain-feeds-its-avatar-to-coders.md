@@ -1,9 +1,11 @@
 ---
 inFeed: true
-description: AVATARS Я US
-dateModified: '2018-02-13T18:57:15.074Z'
-datePublished: '2018-02-13T18:57:15.577Z'
-title: KEYMAKER
+description: >-
+  CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
+  our Limbic System: Completely Primitive Unconscious
+dateModified: '2018-02-13T19:15:45.847Z'
+datePublished: '2018-02-13T19:15:46.414Z'
+title: AVATARS Я US
 author:
   - url: 'https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU'
     name: J. Orrico.
@@ -17,9 +19,8 @@ url: brain-coded-avatars-ya-us/index.html
 _type: Article
 
 ---
+# AVATARS Я US
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2374b0f-4aa7-45c5-8c84-49c6daad694e.png)
-
-AVATARS Я US
 
 ## KEYMAKER
 
