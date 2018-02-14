@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-13T19:17:53.896Z'
-datePublished: '2018-02-13T19:17:54.554Z'
+dateModified: '2018-02-14T01:18:06.424Z'
+datePublished: '2018-02-14T01:18:06.560Z'
 title: SOCIAL > NETWORK
 author: []
 publisher: {}
@@ -16,6 +16,7 @@ _type: Article
 
 ---
 # **SOCIAL \> NETWORK**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a8e9630-1ede-47ca-be04-147dfc7baf04.jpg)
 
 * We can't all be rich.
 * We can't all be famous.
@@ -23,7 +24,6 @@ _type: Article
 * **[OR CAN WE?][0]**
 
 ## **Author: [W. Ben Hunt, Ph.D.][1]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a8e9630-1ede-47ca-be04-147dfc7baf04.jpg)
 
 [0]: http://epsilontheory.com/the-two-churchills/
 [1]: http://epsilontheory.com/search-posts/?author=bhunt
