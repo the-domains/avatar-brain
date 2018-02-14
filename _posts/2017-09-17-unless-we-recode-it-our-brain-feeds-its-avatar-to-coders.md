@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2018-02-13T19:41:54.714Z'
-datePublished: '2018-02-13T19:41:55.229Z'
+dateModified: '2018-02-14T01:28:52.417Z'
+datePublished: '2018-02-14T01:28:52.602Z'
 title: AVATARS Я US
 author:
   - url: 'https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU'
@@ -35,11 +35,11 @@ _type: Article
 
 **FOUR STATES OF HEALTH:** Cerebral, Physical, Financial and Social
 
-### **CEREBRAL ――――――――\> PROGRAMMING**
+### **CEREBRAL \> PROGRAMMING**
 
 Imagine our brains as servers powering a +7 billion network, where culture is a server-code and language can only code content. Question: If a group of coders became aware of this design, would they tell us? Or would they focus on coding "cultural illusions" to steer the rest of us in favor of their own destiny?
 
-### **PHYSICAL ――――――――\> HARDWARE**
+### **PHYSICAL \> HARDWARE**
 
 Many of the foods and habits said to prolong our health might be harmful or at best useless over time. For instance, when it comes to:
 
@@ -47,7 +47,7 @@ Many of the foods and habits said to prolong our health might be harmful or at b
 
 **Exercise: **Most of us think of it as a way of counteracting the effects of unhealthy eating habits, a notion fueling our yearning for useless gear. For instance, as posted in **[Huarache Runners][1]** and explained by Chris McDougall (**[Appendix B][0])**, the larger the gap between our soles' nerve endings and the surface we run on, the higher the potential for injury
 
-### **FINANCIAL ―――――――---\> POWER**
+### **FINANCIAL \> POWER**
 
 Linked below are 3 concepts that provide long-range perspective on what truly underlies financial matters
 
@@ -57,7 +57,7 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 * [NET PRESENT VALUE][4]: PREDATOR-PREY DYNAMICS RULE THE VALUE OF ALL INCOME
 
-### **SOCIAL ―――――――――\> NETWORK**
+### **SOCIAL \> NETWORK**
 
 Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
 
