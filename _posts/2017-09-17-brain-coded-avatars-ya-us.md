@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Optimal Nutrition by Serge Faguet
-dateModified: '2018-02-14T01:21:02.209Z'
-datePublished: '2018-02-14T01:21:02.787Z'
+dateModified: '2018-02-14T15:17:41.442Z'
+datePublished: '2018-02-14T15:17:41.667Z'
 title: PHYSICAL > HARDWARE
 author: []
 publisher: {}
