@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-14T15:17:41.442Z'
-datePublished: '2018-02-14T15:17:41.672Z'
+dateModified: '2018-02-14T15:19:29.916Z'
+datePublished: '2018-02-14T15:19:30.112Z'
 title: SOCIAL > NETWORK
 author: []
 publisher: {}
