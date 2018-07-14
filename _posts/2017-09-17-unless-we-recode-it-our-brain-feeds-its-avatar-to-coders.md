@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2018-07-14T16:29:33.894Z'
-datePublished: '2018-07-14T16:29:35.144Z'
+dateModified: '2018-07-14T16:31:56.521Z'
+datePublished: '2018-07-14T16:31:57.691Z'
 title: AVATARS Я US
 author:
   - url: 'https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU'
@@ -63,19 +63,17 @@ Social interaction follows rules of engagement established by our animal brain's
 
 ### CREDITS
 
-"Acrylic Brain in Times Square." _Against a background of Times Square lights, a_ lighted skull (bottom right) turns invisible. _Combined from **["Times Square"][5]**__and **["Acrylic Brain"][6]**_ .
+Oswaldo Lairet @olairet
 
 ### LINKS
 
-_**[Avatar-Brain][7], [Information Asymmetry][8], [Hack the Matrix ][0], [Sequoian][9]**_
+_**[Avatar-Brain][5], [Information Asymmetry][6], [Hack the Matrix ][0], [Sequoian][7]**_
 
 [0]: http://www.infoasy.com/
 [1]: https://www.strava.com/clubs/huarache-runners
 [2]: https://sequoian.com/2014/12/wp-contentuploads201711information-symmetry-pdf-2/
 [3]: http://sequoian.com/2015/09/wp-contentuploads201610the-discount-rate-pyramid-scheme-2-0-pdf/
 [4]: http://sequoian.com/2017/08/wp-contentuploads201710predator-prey-economics-reloaded-pdf/
-[5]: https://unsplash.com/@emanuelebresciani?photo=9xAvbCVi-Nk
-[6]: https://unsplash.com/@jessedo81?photo=rmWtVQN5RzU
-[7]: http://avatarbrain.com/
-[8]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
-[9]: http://sequoian.com/
+[5]: http://avatarbrain.com/
+[6]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
+[7]: http://sequoian.com/
