@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   CPU: Stands for Central Processing Unit, yet regarding our brain, it refers to
   our Limbic System: Completely Primitive Unconscious
-dateModified: '2018-07-14T16:40:05.443Z'
-datePublished: '2018-07-14T16:40:06.229Z'
+dateModified: '2018-07-14T17:02:16.918Z'
+datePublished: '2018-07-14T17:02:20.028Z'
 title: AVATARS Я US
 author: []
 publisher: {}
@@ -57,19 +57,22 @@ Linked below are 3 concepts that provide long-range perspective on what truly un
 
 Social interaction follows rules of engagement established by our animal brain's perceived social status. Thus, optimizing our "net protocol" rests on identifying, committing to, and incorporating high-rank behavior code, despite unique constraints
 
-### CREDITS
+AUTHOR: _**[@olairet][5]**_
 
-Oswaldo Lairet @olairet
+PICTURE: "Acrylic Brain in Times Square."_Against a background of Times Square lights, a_lighted skull (bottom right) turns invisible _-combined from **"[Times Square][6]" **by****_emanuele brescianiand _**"[Acrylic Brain][7]"**_ by jesse orrico.
 
-### LINKS
+LINKS
 
-_**[Avatar-Brain][5], [Information Asymmetry][6], [Hack the Matrix ][0], [Sequoian][7]**_
+_**[Avatar-Brain][8], [Information Asymmetry][9], [Hack the Matrix ][0], [Sequoian][10]**_
 
 [0]: http://www.infoasy.com/
 [1]: https://www.strava.com/clubs/huarache-runners
 [2]: https://sequoian.com/2014/12/wp-contentuploads201711information-symmetry-pdf-2/
 [3]: http://sequoian.com/2015/09/wp-contentuploads201610the-discount-rate-pyramid-scheme-2-0-pdf/
 [4]: http://sequoian.com/2017/08/wp-contentuploads201710predator-prey-economics-reloaded-pdf/
-[5]: http://avatarbrain.com/
-[6]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
-[7]: http://sequoian.com/
+[5]: https://twitter.com/olairet
+[6]: https://unsplash.com/search/photos/emanuele-bresciani
+[7]: https://unsplash.com/photos/rmWtVQN5RzU
+[8]: http://avatarbrain.com/
+[9]: http://sequoian.com/2016/03/wp-contentuploads201708information_symmetry-pdf/
+[10]: http://sequoian.com/
