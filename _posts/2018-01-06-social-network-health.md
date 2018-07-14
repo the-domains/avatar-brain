@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-14T15:19:29.916Z'
-datePublished: '2018-02-14T15:19:30.112Z'
+dateModified: '2018-07-14T17:02:54.975Z'
+datePublished: '2018-07-14T17:02:55.625Z'
 title: SOCIAL > NETWORK
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Article
 * We can't all be Someone Who Matters to the World
 * **[OR CAN WE?][0]**
 
-## **Author: [W. Ben Hunt, Ph.D.][1]**
+## **[W. Ben Hunt, Ph.D.][1]**
 
 [0]: http://epsilontheory.com/the-two-churchills/
 [1]: http://epsilontheory.com/search-posts/?author=bhunt
